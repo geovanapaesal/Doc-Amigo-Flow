@@ -1,0 +1,2 @@
+# Atalhos de mensagens
+
