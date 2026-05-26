@@ -34,7 +34,8 @@
 
 * [Guia prático do Agente Flow](funcionalidades/guia-pratico-do-agente-flow.md)
 * [Dashboard de atendimentos](funcionalidades/dashboard-de-atendimentos.md)
-* [Chats](funcionalidades/chats.md)
+* [Chats](funcionalidades/chats/README.md)
+  * [Notas interna](funcionalidades/chats/notas-interna.md)
 * [Painéis](funcionalidades/paineis.md)
 * [Envios](funcionalidades/envios/README.md)
   * [Envios automáticos](funcionalidades/envios/envios-automaticos.md)
