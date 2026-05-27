@@ -20,7 +20,7 @@ description: Exemplos, sugestões e cadências para clínicas e implantadores
 
 ***
 
-### 1. Confirmação de Consulta {#confirmação}
+### 1. Confirmação de Consulta&#x20;
 
 #### Objetivo
 
@@ -157,7 +157,7 @@ Oi [nome_paciente]! 👋 Só um lembrete que sua consulta é *hoje às [horario_
 
 ***
 
-### 2. Pré-atendimento {#pré-atendimento}
+### 2. Pré-atendimento&#x20;
 
 #### Objetivo
 
@@ -300,7 +300,7 @@ Dúvidas sobre o preparo? Fale com a gente: [telefone_clinica]
 
 ***
 
-### 3. Pós-atendimento {#pós-atendimento}
+### 3. Pós-atendimento&#x20;
 
 #### Objetivo
 
@@ -422,7 +422,7 @@ Caso precise de alguma orientação adicional ou queira agendar uma avaliação,
 
 ***
 
-### 4. Falta {#falta}
+### 4. Falta&#x20;
 
 #### Objetivo
 
@@ -543,7 +543,7 @@ Queremos muito poder te atender! Quando você tiver disponibilidade, é só nos 
 
 ***
 
-### 5. Aniversário {#aniversário}
+### 5. Aniversário&#x20;
 
 #### Objetivo
 
@@ -651,7 +651,7 @@ Equipe [nome_clinica] 💙
 
 ***
 
-### 6. Orçamento em Aberto {#orçamento-em-aberto}
+### 6. Orçamento em Aberto&#x20;
 
 #### Objetivo
 
@@ -767,7 +767,7 @@ Quando estiver pronto, é só nos sinalizar!
 
 ***
 
-### Apêndice: Boas Práticas de Redação de Templates {#boas-práticas}
+### Apêndice: Boas Práticas de Redação de Templates&#x20;
 
 #### ✅ O que funciona bem
 
