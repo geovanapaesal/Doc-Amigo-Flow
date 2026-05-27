@@ -10,13 +10,13 @@ description: Exemplos, sugestões e cadências para clínicas e implantadores
 
 ### Sumário
 
-1. [Confirmação de Consulta](https://claude.ai/chat/9dd891f5-5f99-4bb7-8ef6-2ba634204985#confirma%C3%A7%C3%A3o)
-2. [Pré-atendimento](https://claude.ai/chat/9dd891f5-5f99-4bb7-8ef6-2ba634204985#pr%C3%A9-atendimento)
-3. [Pós-atendimento](https://claude.ai/chat/9dd891f5-5f99-4bb7-8ef6-2ba634204985#p%C3%B3s-atendimento)
-4. [Falta](https://claude.ai/chat/9dd891f5-5f99-4bb7-8ef6-2ba634204985#falta)
-5. [Aniversário](https://claude.ai/chat/9dd891f5-5f99-4bb7-8ef6-2ba634204985#anivers%C3%A1rio)
-6. [Orçamento em Aberto](https://claude.ai/chat/9dd891f5-5f99-4bb7-8ef6-2ba634204985#or%C3%A7amento-em-aberto)
-7. [Apêndice: Boas Práticas de Redação](https://claude.ai/chat/9dd891f5-5f99-4bb7-8ef6-2ba634204985#boas-pr%C3%A1ticas)
+1. [Confirmação de Consulta](guia-de-mensagens-para-envios-automaticos.md#id-1.-confirmacao-de-consulta-confirmacao)
+2. [Pré-atendimento](guia-de-mensagens-para-envios-automaticos.md#id-2.-pre-atendimento-pre-atendimento)
+3. [Pós-atendimento](guia-de-mensagens-para-envios-automaticos.md#id-3.-pos-atendimento-pos-atendimento)
+4. [Falta](guia-de-mensagens-para-envios-automaticos.md#id-4.-falta-falta)
+5. [Aniversário](guia-de-mensagens-para-envios-automaticos.md#id-5.-aniversario-aniversario)
+6. [Orçamento em Aberto](guia-de-mensagens-para-envios-automaticos.md#id-6.-orcamento-em-aberto-orcamento-em-aberto)
+7. [Apêndice: Boas Práticas de Redação](guia-de-mensagens-para-envios-automaticos.md#apendice-boas-praticas-de-redacao-de-templates-boas-praticas)
 
 ***
 
