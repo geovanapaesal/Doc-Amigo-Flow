@@ -16,7 +16,7 @@ Você configura uma vez, define as regras, e o sistema cuida do resto: envia **n
 
 Os Envios Automáticos cobrem os principais momentos da jornada do paciente:
 
-<table><thead><tr><th>Tipo de Envio</th><th>Para que serve</th><th data-type="checkbox">Lançado?</th></tr></thead><tbody><tr><td><strong>Confirmação</strong></td><td>Reduzir faltas pedindo que o paciente confirme a consulta com antecedência</td><td>true</td></tr><tr><td><strong>Pré-atendimento</strong></td><td>Enviar orientações e preparos antes da consulta</td><td>true</td></tr><tr><td><strong>Pós-atendimento</strong></td><td>Manter o contato após a consulta com cuidados, feedbacks ou instruções</td><td>true</td></tr><tr><td><strong>Falta</strong></td><td>Entrar em contato quando o paciente não comparece</td><td>true</td></tr><tr><td><strong>Aniversário</strong></td><td>Fortalecer o relacionamento com uma mensagem no dia do aniversário</td><td>true</td></tr><tr><td><strong>Orçamento em aberto</strong></td><td>Lembrar o paciente sobre um orçamento pendente e aumentar a conversão</td><td>true</td></tr><tr><td><strong>Cobrança</strong></td><td>Enviar lembretes financeiros de forma automática</td><td>true</td></tr></tbody></table>
+<table><thead><tr><th>Tipo de Envio</th><th>Para que serve</th><th data-type="checkbox">Lançado?</th></tr></thead><tbody><tr><td><strong>Confirmação</strong></td><td>Reduzir faltas pedindo que o paciente confirme a consulta com antecedência</td><td>true</td></tr><tr><td><strong>Pré-atendimento</strong></td><td>Enviar orientações e preparos antes da consulta</td><td>true</td></tr><tr><td><strong>Pós-atendimento</strong></td><td>Manter o contato após a consulta com cuidados, feedbacks ou instruções</td><td>true</td></tr><tr><td><strong>Falta</strong></td><td>Entrar em contato quando o paciente não comparece</td><td>true</td></tr><tr><td><strong>Aniversário</strong></td><td>Fortalecer o relacionamento com uma mensagem no dia do aniversário</td><td>true</td></tr><tr><td><strong>Orçamento em aberto</strong></td><td>Lembrar o paciente sobre um orçamento pendente e aumentar a conversão</td><td>true</td></tr><tr><td><strong>Cobrança</strong></td><td>Enviar lembretes financeiros de forma automática</td><td>false</td></tr></tbody></table>
 
 ***
 
@@ -100,7 +100,7 @@ Use a **busca por nome** e os **filtros** no topo da tela para encontrar envios 
 
 O sistema foi desenvolvido para ser confiável e não incomodar o paciente com mensagens desnecessárias:
 
-* **Sem duplicatas:** a mesma mensagem nunca é enviada duas vezes para o mesmo paciente no mesmo horário.
+* **Sem duplicatas:** um mesmo envio nunca será enviado duas vezes para o mesmo paciente no mesmo horário. Porém, caso existam configurações de envios idênticas, o paciente poderá receber mensagens iguais provenientes de cada configuração criada.
 * **Reagendamentos:** se um atendimento for reagendado, os disparos são recalculados automaticamente para o novo horário.
 * **Envio pausado:** se o envio estiver desativado, nenhuma mensagem sai — mesmo que o evento ocorra.
 * **Cancelamento automático:** ao desativar ou excluir um envio, os disparos já agendados (ainda não enviados) são cancelados.
