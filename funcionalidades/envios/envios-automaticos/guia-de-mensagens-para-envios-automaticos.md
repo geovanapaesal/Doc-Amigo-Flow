@@ -29,9 +29,9 @@ description: Exemplos, sugestões e cadências para clínicas e implantadores
 | 48h antes | Aviso principal — tempo suficiente para reorganizar a agenda se necessário |
 | 2h antes  | Lembrete final — garante que o paciente não esqueceu no dia                |
 
-\{% hint style="info" %\} **Dica para implantadores:** Configure os dois períodos no mesmo Envio Automático usando o botão **+ Adicionar período**. Usar templates ligeiramente diferentes em cada período torna a experiência mais natural para o paciente. \{% endhint %\}
-
-***
+{% hint style="info" icon="lightbulb" %}
+**Dica:** Configure os dois períodos no mesmo Envio Automático usando o botão **+ Adicionar período**. Usar templates ligeiramente diferentes em cada período torna a experiência mais natural para o paciente.&#x20;
+{% endhint %}
 
 #### Exemplos de Templates
 
@@ -158,7 +158,9 @@ Responda SIM para confirmar sua presença.
 | 48h antes | Enviar orientações com tempo suficiente para o paciente se preparar |
 | 24h antes | Reforçar preparos críticos (como jejum) para o dia seguinte         |
 
-\{% hint style="info" %\} **Dica para implantadores:** Use o filtro **Procedimento** para criar envios diferentes por tipo de exame ou consulta. Um template para "consulta de rotina" será muito diferente de um para "colonoscopia". Crie um envio para cada grupo de procedimento. \{% endhint %\}
+{% hint style="info" icon="lightbulb" %}
+**Dica:** Use o filtro **Procedimento** para criar envios diferentes por tipo de exame ou consulta. Um template para "consulta de rotina" será muito diferente de um para "colonoscopia". Crie um envio para cada grupo de procedimento.&#x20;
+{% endhint %}
 
 ***
 
@@ -287,7 +289,9 @@ Dúvidas sobre o preparo? Fale conosco antes do exame.
 | 24h após finalização   | Mensagem principal de acompanhamento — mais relevante enquanto a consulta ainda está fresca |
 | 7 dias após (opcional) | Follow-up para procedimentos específicos ou verificação de evolução                         |
 
-\{% hint style="info" %\} **Dica para implantadores:** O pós-atendimento é um diferencial de clínicas que querem fidelizar pacientes. Muitas clínicas ainda não fazem isso — implantá-lo bem gera impacto visível na satisfação. Use o filtro **Tipo de atendimento** para criar mensagens diferentes para primeira consulta vs. retorno. \{% endhint %\}
+{% hint style="info" icon="lightbulb" %}
+**Dica para implantadores:** O pós-atendimento é um diferencial de clínicas que querem fidelizar pacientes. Muitas clínicas ainda não fazem isso — implantá-lo bem gera impacto visível na satisfação. Use o filtro **Tipo de atendimento** para criar mensagens diferentes para primeira consulta vs. retorno.&#x20;
+{% endhint %}
 
 ***
 
@@ -386,7 +390,9 @@ Cuidar de você é o que nos motiva! 💙
 | 2h após o horário   | Contato imediato, ainda com abertura para reagendar no mesmo dia ou dia seguinte |
 | 24h após (opcional) | Segunda tentativa para pacientes que não responderam                             |
 
-\{% hint style="warning" %\} **Atenção para implantadores:** O tom da mensagem de falta é crítico. Mensagens que soam como cobrança ou julgamento afastam o paciente. O objetivo é sempre acolher e facilitar o reagendamento. Evite palavras como "faltou", "não compareceu" ou "ausente" de forma direta. \{% endhint %\}
+{% hint style="info" icon="lightbulb" %}
+**Atenção:** O tom da mensagem de falta é crítico. Mensagens que soam como cobrança ou julgamento afastam o paciente. O objetivo é sempre acolher e facilitar o reagendamento. Evite palavras como "faltou", "não compareceu" ou "ausente" de forma direta.
+{% endhint %}
 
 ***
 
@@ -568,7 +574,9 @@ Com carinho,
 | 7 dias após (sem resposta)  | Segundo lembrete — reforça urgência com leveza            |
 | 15 dias após (sem resposta) | Última tentativa — desperta curiosidade ou urgência final |
 
-\{% hint style="info" %\} **Dica:** Combine o filtro **Procedimento** para criar mensagens específicas por tipo de tratamento (implante, ortodontia, cirurgia, estética). Mensagens contextualizadas têm taxa de retorno significativamente maior do que mensagens genéricas. \{% endhint %\}
+{% hint style="info" icon="lightbulb" %}
+**Dica:** Combine o filtro **Procedimento** para criar mensagens específicas por tipo de tratamento (implante, ortodontia, cirurgia, estética). Mensagens contextualizadas têm taxa de retorno significativamente maior do que mensagens genéricas.&#x20;
+{% endhint %}
 
 ***
 
@@ -679,14 +687,11 @@ Iniciar logo faz toda a diferença nos resultados! Se tiver dúvidas sobre o pro
 
 Antes de clicar em **Salvar e ativar**, valide:
 
-* \[ ] O template foi aprovado no canal de WhatsApp selecionado?
 * \[ ] O tom da mensagem está adequado para o tipo de envio?
 * \[ ] Os períodos de disparo fazem sentido para o fluxo do paciente?
 * \[ ] Os filtros aplicados segmentam corretamente o público desejado?
 * \[ ] O objetivo do envio foi descrito no campo "Objetivo" para facilitar identificação futura?
 * \[ ] Você verificou se já existe outro envio do mesmo tipo ativo para o mesmo público?
-
-***
 
 #### Estrutura-padrão de um bom template de WhatsApp
 
