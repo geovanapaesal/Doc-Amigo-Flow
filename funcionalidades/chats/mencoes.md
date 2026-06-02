@@ -29,4 +29,4 @@ Ao clicar no card, o atendimento abre direto na menção mais antiga — e o mod
 
 > Essa funcionalidade facilita a comunicação interna sem sair do atendimento — ideal para acionar um colega, tirar dúvidas ou passar contexto sem o paciente ver.
 
-<figure><img src="../../.gitbook/assets/d20-mencoes.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/d20-mencoes.png" alt="" width="563"><figcaption></figcaption></figure>
