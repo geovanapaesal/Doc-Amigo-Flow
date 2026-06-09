@@ -1,3 +1,7 @@
+---
+icon: link-slash
+---
+
 # Dessincronizar Paciente
 
 #### O que é
