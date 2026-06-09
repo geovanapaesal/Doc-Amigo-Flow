@@ -36,6 +36,7 @@
 * [Guia prático do Agente Flow](funcionalidades/guia-pratico-do-agente-flow.md)
 * [Dashboard de atendimentos](funcionalidades/dashboard-de-atendimentos.md)
 * [Chats](funcionalidades/chats/README.md)
+  * [Melhorar resposta com IA](funcionalidades/chats/melhorar-resposta-com-ia.md)
   * [Notas internas](funcionalidades/chats/notas-internas.md)
   * [Menções](funcionalidades/chats/mencoes.md)
 * [Painéis](funcionalidades/paineis.md)
