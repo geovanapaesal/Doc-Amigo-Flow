@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Consentimento LGPD no Cadastro de Leads (Opt-in)
 
 Estamos implementando uma etapa obrigatória de **consentimento explícito (opt-in)** antes da coleta de dados pessoais no fluxo de cadastro de leads via WhatsApp.

@@ -11,6 +11,7 @@
   * [Atualizações Meta](atalhos/novidades-do-flow/atualizacoes-meta/README.md)
     * [Conecte seu WhatsApp ao Amigo Flow — Método QR Code (Coexistência)](atalhos/novidades-do-flow/atualizacoes-meta/conecte-seu-whatsapp-ao-amigo-flow-metodo-qr-code-coexistencia.md)
     * [Agente Flow pode ser banido pela Meta?](atalhos/novidades-do-flow/atualizacoes-meta/agente-flow-pode-ser-banido-pela-meta.md)
+  * [Dessincronizar Paciente](atalhos/novidades-do-flow/dessincronizar-paciente.md)
   * [Consentimento LGPD no Cadastro de Leads (Opt-in)](atalhos/novidades-do-flow/consentimento-lgpd-no-cadastro-de-leads-opt-in.md)
   * [Novo modo de agendamento via link](atalhos/novidades-do-flow/novo-modo-de-agendamento-via-link.md)
   * [Nova Funcionalidade: Configuração de Conhecimento e Agendamento do Agente](atalhos/novidades-do-flow/nova-funcionalidade-configuracao-de-conhecimento-e-agendamento-do-agente.md)
