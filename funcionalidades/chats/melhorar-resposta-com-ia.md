@@ -6,7 +6,7 @@ icon: sparkles
 
 #### O que é
 
-O Amigo Flow agora oferece sugestões de resposta geradas por Inteligência Artificial diretamente no chat de atendimento. A IA analisa o contexto da conversa e sugere uma resposta adequada — mas **nada é enviado sem a revisão e aprovação do atendente**.
+O Amigo Flow agora oferece melhorias de resposta geradas por Inteligência Artificial diretamente no chat de atendimento. A IA analisa o texto digitado e sugere uma resposta melhorada, mas **nada é enviado sem a revisão e aprovação do atendente**.
 
 #### Por que isso importa
 
@@ -16,13 +16,11 @@ Atendentes lidam com dezenas de conversas simultâneas e precisam responder com 
 
 **Passo 1 — Acionar a sugestão**
 
-Com o foco no campo de digitação de mensagem, escreva **ao menos 3 palavras** de contexto ou rascunho e clique no **botão de IA** disponível na barra do campo de mensagem.
-
-> 💡 **Dica:** Uma frase parcial, uma pergunta do paciente copiada ou palavras-chave do assunto já são suficientes para acionar uma sugestão de qualidade.
+Com o foco no campo de digitação de mensagem, escreva **ao menos 3 palavras** de contexto ou rascunho e clique no **botão de Melhorar com IA** disponível na barra do campo de mensagem.
 
 **Passo 2 — Aguardar o carregamento**
 
-Um painel aparecerá acima do campo de mensagem com uma animação de carregamento. O campo de digitação continua ativo — você pode continuar escrevendo ou aguardar a sugestão.
+Um painel aparecerá acima do campo de mensagem com uma animação de carregamento. O campo de digitação continua ativo, mas você deve aguardar a sugestão.
 
 > Se você digitar algo enquanto a IA processa, a sugestão em andamento será descartada automaticamente.
 
