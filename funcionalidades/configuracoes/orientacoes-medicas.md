@@ -1,3 +1,7 @@
+---
+icon: book-medical
+---
+
 # Orientações médicas
 
 A Base de Orientações é uma funcionalidade do Agente Flow que permite à clínica cadastrar textos aprovados para situações clínicas recorrentes, como: cuidados pós-procedimento, preparo para exames ou sintomas esperados; e fazer com que o agente os envie ao paciente no momento certo.
