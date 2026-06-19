@@ -21,7 +21,7 @@ Isso garante uma comunicação mais profissional, consistente e automatizada.
 1. No menu Número e conta, acesse **Modelos da conta**.
 2. Clique em **Criar Modelo** e selecione a categoria desejada.
 
-<figure><img src="../../.gitbook/assets/Captura de Tela 2026-02-24 às 16.15.30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de Tela 2026-02-24 às 16.15.30.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -69,7 +69,7 @@ As variáveis dinâmicas precisam ser substituídas no momento do envio.
 
 Além disso, é possível ver uma preview do modelo que está sendo criado na lateral do formulário.<br>
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 #### 🔘 Botões (opcional)
 
@@ -90,7 +90,7 @@ Exemplo:
 * Acessar mapa da clínica
 * Assinar documento
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 ### Passo 3: Enviar para aprovação
 
