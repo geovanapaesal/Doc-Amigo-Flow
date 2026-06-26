@@ -20,7 +20,7 @@ A tela é composta por três áreas principais:
 
 **Tabela de leads** — listagem completa com informações de cada contato e ações rápidas.
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<div align="center"><figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Informações exibidas na tabela
 
@@ -36,7 +36,7 @@ Cada linha também exibe um ícone do WhatsApp para contato rápido e um menu de
 
 ### Entendendo os status
 
-<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/image (54).png" alt="" width="224"><figcaption></figcaption></figure></div>
 
 Cada lead possui um status que indica em qual etapa da jornada ele se encontra:
 
