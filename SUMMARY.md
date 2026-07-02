@@ -20,6 +20,7 @@
   * [Abertura do Chat do Amigo Flow diretamente pelo botão WhatsApp no Kanban do Agende+](atalhos/novidades-do-flow/abertura-do-chat-do-amigo-flow-diretamente-pelo-botao-whatsapp-no-kanban-do-agende+.md)
   * [Criação de Templates com Variáveis Personalizadas no Amigo Flow (WhatsApp API)](atalhos/novidades-do-flow/criacao-de-templates-com-variaveis-personalizadas-no-amigo-flow-whatsapp-api.md)
 * [FAQ](atalhos/faq/README.md)
+  * [Como reservar o nome de usuário (@username) do WhatsApp da sua clínica](atalhos/faq/como-reservar-o-nome-de-usuario-username-do-whatsapp-da-sua-clinica.md)
   * [O que conta como 1 Atendimento no Amigo Flow](atalhos/faq/o-que-conta-como-1-atendimento-no-amigo-flow.md)
   * [Como funciona a janela de conversa da Meta?](atalhos/faq/como-funciona-a-janela-de-conversa-da-meta.md)
   * [Como criar um portfólio empresarial (Meta Business Suite)](atalhos/faq/como-criar-um-portfolio-empresarial-meta-business-suite.md)
