@@ -47,6 +47,8 @@ A reserva é feita fora do Amigo Flow, diretamente nas ferramentas da Meta que a
 
 > ⚠️ **Quer usar o mesmo @ do Facebook ou Instagram da clínica e ele não aparece como sugestão?** Isso normalmente significa que essas contas ainda não estão conectadas ao WhatsApp. Você pode vincular o número de telefone no momento da reserva (Meta Business Suite ou Gerenciador do WhatsApp) ou diretamente pela Página do Facebook / conta do Instagram. Para vincular, é necessário ter controle total da Página/conta, ou acesso parcial com a permissão `manage_phone`.
 
+<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ### Como alterar o nome de usuário depois de criado
