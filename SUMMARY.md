@@ -48,6 +48,7 @@
   * [Envios em massa](funcionalidades/envios/envios-em-massa.md)
 * [Leads](funcionalidades/leads.md)
 * [Configurações](funcionalidades/configuracoes/README.md)
+  * [Temas de atendimento](funcionalidades/configuracoes/temas-de-atendimento.md)
   * [Canais](funcionalidades/configuracoes/canais.md)
   * [Orientações médicas](funcionalidades/configuracoes/orientacoes-medicas.md)
   * [Como criar modelos de mensagens](funcionalidades/configuracoes/como-criar-modelos-de-mensagens/README.md)

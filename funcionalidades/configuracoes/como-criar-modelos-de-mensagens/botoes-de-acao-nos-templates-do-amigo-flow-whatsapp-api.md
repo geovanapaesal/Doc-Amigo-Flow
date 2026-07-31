@@ -49,7 +49,7 @@ Isso abrirá um menu com os tipos de botão disponíveis:
 
 
 \
-&#xNAN;**✔️ Regras importantes**
+**✔️ Regras importantes**
 
 * Cada tipo de botão já vem com a ação vinculada por padrão — não é possível alterar qual ação um botão executa.
 * A validação impede que o template seja salvo sem pelo menos o tipo de botão selecionado.
