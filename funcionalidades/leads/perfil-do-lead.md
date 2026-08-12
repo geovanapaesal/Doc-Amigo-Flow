@@ -4,6 +4,8 @@ icon: user-group-crown
 
 # Perfil do Lead
 
+{% embed url="https://youtu.be/OpKmR3NwBDE" %}
+
 ### Visão geral do perfil
 
 Ao abrir o Perfil do Lead, você encontra as principais informações do contato em um modal completo, sem precisar navegar para outras telas. A experiência foi pensada para dar mais contexto durante o atendimento e reduzir o tempo gasto procurando dados espalhados pelo sistema.

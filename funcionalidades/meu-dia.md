@@ -18,6 +18,8 @@ Nessa experiência, sua equipe poderá:
 
 A organização da lista foi pensada para dar prioridade ao que exige atenção primeiro. Tarefas urgentes e atrasadas aparecem com destaque na ordem de execução, enquanto tarefas futuras ficam agrupadas por data.
 
+{% file src="../.gitbook/assets/Um dia na recepção (3).mp4" %}
+
 <figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" icon="lightbulb-on" %}
