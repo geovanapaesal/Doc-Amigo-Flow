@@ -21,6 +21,7 @@
   * [Criação de Templates com Variáveis Personalizadas no Amigo Flow (WhatsApp API)](atalhos/novidades-do-flow/criacao-de-templates-com-variaveis-personalizadas-no-amigo-flow-whatsapp-api.md)
   * [Lançamentos de agosto](atalhos/novidades-do-flow/lancamentos-de-agosto.md)
 * [FAQ](atalhos/faq/README.md)
+  * [Principais motivos de rejeição de modelos pela Meta](atalhos/faq/principais-motivos-de-rejeicao-de-modelos-pela-meta.md)
   * [Como reservar o nome de usuário (@username) do WhatsApp da sua clínica](atalhos/faq/como-reservar-o-nome-de-usuario-username-do-whatsapp-da-sua-clinica.md)
   * [O que conta como 1 Atendimento no Amigo Flow](atalhos/faq/o-que-conta-como-1-atendimento-no-amigo-flow.md)
   * [Como funciona a janela de conversa da Meta?](atalhos/faq/como-funciona-a-janela-de-conversa-da-meta.md)
