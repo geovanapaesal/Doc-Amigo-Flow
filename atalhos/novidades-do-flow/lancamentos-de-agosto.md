@@ -1,4 +1,4 @@
-# Lançamentos de agosto
+# Lançamentos de Agosto
 
 ## Atualizações 21/08
 
@@ -29,6 +29,10 @@ Cada registro mostra data e hora, responsável (com cargo/perfil), submódulo al
 A tela oferece filtros por usuário, entidade, identificador, submódulo, ação e período (incluindo intervalos personalizados), além de paginação. Também é possível exportar os registros filtrados em CSV.
 
 Saiba mais em:&#x20;
+
+{% content-ref url="../../funcionalidades/configuracoes/trilha-de-auditoria-de-logs.md" %}
+[trilha-de-auditoria-de-logs.md](../../funcionalidades/configuracoes/trilha-de-auditoria-de-logs.md)
+{% endcontent-ref %}
 
 ## Atualizações 11/08
 

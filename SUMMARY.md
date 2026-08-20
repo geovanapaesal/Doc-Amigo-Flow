@@ -8,10 +8,11 @@
 ## Atalhos
 
 * [Novidades do Flow](atalhos/novidades-do-flow/README.md)
+  * [Lançamentos de Agosto](atalhos/novidades-do-flow/lancamentos-de-agosto.md)
+  * [Lançamentos de Junho](atalhos/novidades-do-flow/lancamentos-de-junho.md)
   * [Atualizações Meta](atalhos/novidades-do-flow/atualizacoes-meta/README.md)
     * [Conecte seu WhatsApp ao Amigo Flow — Método QR Code (Coexistência)](atalhos/novidades-do-flow/atualizacoes-meta/conecte-seu-whatsapp-ao-amigo-flow-metodo-qr-code-coexistencia.md)
     * [Agente Flow pode ser banido pela Meta?](atalhos/novidades-do-flow/atualizacoes-meta/agente-flow-pode-ser-banido-pela-meta.md)
-  * [Lançamentos de junho](atalhos/novidades-do-flow/lancamentos-de-junho.md)
   * [Dessincronizar Paciente](atalhos/novidades-do-flow/dessincronizar-paciente.md)
   * [Consentimento LGPD no Cadastro de Leads (Opt-in)](atalhos/novidades-do-flow/consentimento-lgpd-no-cadastro-de-leads-opt-in.md)
   * [Novo modo de agendamento via link](atalhos/novidades-do-flow/novo-modo-de-agendamento-via-link.md)
@@ -19,7 +20,6 @@
   * [Avaliação de Atendimento](atalhos/novidades-do-flow/avaliacao-de-atendimento.md)
   * [Abertura do Chat do Amigo Flow diretamente pelo botão WhatsApp no Kanban do Agende+](atalhos/novidades-do-flow/abertura-do-chat-do-amigo-flow-diretamente-pelo-botao-whatsapp-no-kanban-do-agende+.md)
   * [Criação de Templates com Variáveis Personalizadas no Amigo Flow (WhatsApp API)](atalhos/novidades-do-flow/criacao-de-templates-com-variaveis-personalizadas-no-amigo-flow-whatsapp-api.md)
-  * [Lançamentos de agosto](atalhos/novidades-do-flow/lancamentos-de-agosto.md)
 * [FAQ](atalhos/faq/README.md)
   * [Principais motivos de rejeição de modelos pela Meta](atalhos/faq/principais-motivos-de-rejeicao-de-modelos-pela-meta.md)
   * [Como reservar o nome de usuário (@username) do WhatsApp da sua clínica](atalhos/faq/como-reservar-o-nome-de-usuario-username-do-whatsapp-da-sua-clinica.md)
