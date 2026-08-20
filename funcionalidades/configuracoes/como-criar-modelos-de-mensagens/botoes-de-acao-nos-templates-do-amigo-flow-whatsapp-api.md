@@ -45,8 +45,7 @@ Isso abrirá um menu com os tipos de botão disponíveis:
 | Ver orçamento       | Fluxo de envio de orçamento do paciente                       |
 | Ver Documento       | Fluxo de envio de documentos pelo prontuário do paciente      |
 | Falar com Atendente | Transfere automaticamente para o setor principal              |
-
-
+| Atualizar cadastro  | Abre o formulário cadastral vinculado ao atendimento          |
 
 \
 **✔️ Regras importantes**
@@ -54,8 +53,6 @@ Isso abrirá um menu com os tipos de botão disponíveis:
 * Cada tipo de botão já vem com a ação vinculada por padrão — não é possível alterar qual ação um botão executa.
 * A validação impede que o template seja salvo sem pelo menos o tipo de botão selecionado.
 * Ao escolher o botão, ele entra na lista do template pronto para uso.
-
-
 
 ### 3️⃣ Personalizando o Texto do Botão
 
@@ -77,8 +74,6 @@ Depois de escolher o tipo, você pode editar o rótulo exibido ao paciente no Wh
 
 * Basta clicar sobre o botão e ajustar o texto exibido
 
-
-
 ### 5️⃣ Preview em Tempo Real
 
 À direita, o painel de preview mostra exatamente como o botão será exibido para o paciente no WhatsApp.
@@ -90,8 +85,6 @@ Depois de escolher o tipo, você pode editar o rótulo exibido ao paciente no Wh
 
 Isso reduz erros e ajuda a confirmar a experiência antes de enviar para aprovação.
 
-
-
 ### 6️⃣ Validação Antes de Salvar ou Enviar
 
 Antes de permitir salvar ou enviar o template para aprovação, o sistema verificará:
@@ -100,8 +93,6 @@ Antes de permitir salvar ou enviar o template para aprovação, o sistema verifi
 
 * Tipo de botão selecionado
 * Texto do botão preenchido
-
-
 
 ### 7️⃣ Como a Ação é Executada
 
@@ -112,8 +103,6 @@ Depois que o template é aprovado e enviado ao paciente, a ação acontece assim
 3. O sistema identifica a ação associada ao botão e executa automaticamente — atualiza a agenda, abre o link, ou inicia o fluxo do Signbox, dependendo do tipo de botão
 4. O sistema retorna uma confirmação ao paciente
 5. A ação é registrada no histórico da conversa do paciente
-
-
 
 **✔️ Regras importantes**
 
@@ -143,3 +132,32 @@ Assim como no botão de orçamento: se a janela da Meta estiver aberta, o sistem
 Um novo botão de transferência pode ser adicionado a qualquer template. Quando o paciente clica, a conversa é transferida automaticamente do fluxo automatizado para a fila de atendimento humano — sem que o paciente precise responder manualmente ou o atendente precisar monitorar a conversa esperando uma sinalização.
 
 O texto do botão pode ser renomeado livremente. Exemplos de uso: "Falar com atendente", "Preciso de ajuda", "Quero reagendar".
+
+#### Atualizar cadastro
+
+Envie a ação **Atualizar cadastro** após o atendimento. O paciente revisa e completa os dados em uma única jornada.
+
+Ao configurar a comunicação, selecione a ação **Atualizar cadastro**. O botão direciona o paciente ao formulário vinculado ao atendimento correspondente.
+
+**Dados preenchidos para revisão**
+
+Quando disponíveis, os dados já cadastrados carregam no formulário. O paciente pode:
+
+* revisar dados pessoais, como nome, CPF, data de nascimento e nome social;
+* atualizar telefone e e-mail de contato;
+* conferir ou complementar o endereço, incluindo CEP, número, logradouro e complemento;
+* identificar os campos que ainda precisam de atenção.
+
+**Informações de convênio**
+
+Para atendimentos por convênio, o formulário também solicita:
+
+* operadora do convênio;
+* número e validade da carteirinha;
+* foto da carteirinha.
+
+**Confirmação e disponibilidade do link**
+
+O paciente confirma que os dados são verdadeiros e envia as alterações de uma vez. Depois do envio, a tela confirma a atualização e o sistema registra os dados.
+
+O link deixa de funcionar após o envio. Links inválidos ou expirados exibem uma orientação na tela.
