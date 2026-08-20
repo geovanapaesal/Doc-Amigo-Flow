@@ -52,6 +52,7 @@
 * [Leads](funcionalidades/leads/README.md)
   * [Perfil do Lead](funcionalidades/leads/perfil-do-lead.md)
 * [Configurações](funcionalidades/configuracoes/README.md)
+  * [Trilha de Auditoria de logs](funcionalidades/configuracoes/trilha-de-auditoria-de-logs.md)
   * [Temas de atendimento](funcionalidades/configuracoes/temas-de-atendimento.md)
   * [Canais](funcionalidades/configuracoes/canais.md)
   * [Orientações médicas](funcionalidades/configuracoes/orientacoes-medicas.md)
