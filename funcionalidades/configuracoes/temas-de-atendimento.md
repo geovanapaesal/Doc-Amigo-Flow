@@ -1,6 +1,6 @@
 # Temas de atendimento
 
-Agora você consegue organizar melhor os atendimentos no  Flow com **Temas de atendimento,** para classificar a temática dos atendimentos que chegam na sua clínica.
+Agora você consegue organizar melhor os atendimentos no Flow com **Temas de atendimento,** para classificar a temática dos atendimentos que chegam na sua clínica.
 
 ### Temas de atendimento <a href="#fb1aae05-04c8-4cc3-b83f-2fcd0b732f42" id="fb1aae05-04c8-4cc3-b83f-2fcd0b732f42"></a>
 
@@ -40,8 +40,6 @@ Também é possível:
 * **Excluir** um tema existente
 * **Ordenar** a listagem por **Temas** (A → Z e Z → A)
 * **Ordenar** a listagem por **Data da atualização** (mais recente → mais antiga e o inverso)
-
-
 
 ### Seleção de temas ao finalizar um atendimento <a href="#id-12df145b-c1f8-4364-8ff2-f1dc1d1752b5" id="id-12df145b-c1f8-4364-8ff2-f1dc1d1752b5"></a>
 
@@ -86,19 +84,23 @@ No **Histórico de Atendimentos**, o drawer de filtros passa a incluir o campo *
 
 ### Sugestão automática de temas pelo Agente Flow <a href="#d25e6576-ab45-457e-826c-cdfb51375fbd" id="d25e6576-ab45-457e-826c-cdfb51375fbd"></a>
 
-> **Status atual do rascunho:** funcionalidade ainda em implementação.
+O **Agente Flow** organiza os atendimentos automaticamente para clínicas que utilizam o Agente de IA.
 
-A proposta deste fluxo é permitir que o **Agente Flow** sugira automaticamente os temas mais aderentes com base no conteúdo da conversa.
+Ao encerrar uma conversa ou transferi-la para um atendente humano, o agente analisa o atendimento completo. Em seguida, sugere o tema mais adequado no modal de finalização.
 
-#### Comportamento esperado <a href="#id-6244268c-7274-45e6-a2a8-e32e8c118d91" id="id-6244268c-7274-45e6-a2a8-e32e8c118d91"></a>
+#### Como funciona <a href="#id-6244268c-7274-45e6-a2a8-e32e8c118d91" id="id-6244268c-7274-45e6-a2a8-e32e8c118d91"></a>
 
-* O agente analisa o histórico do atendimento no momento de encerramento ou transferência.
-* A sugestão considera apenas os **temas ativos configurados pela própria clínica**.
-* Temas de outras organizações não entram na análise.
-* O agente pode sugerir **um ou mais temas**.
-* As sugestões devem chegar **pré-selecionadas** no modal de finalização para revisão humana.
-* O atendente continua podendo revisar, adicionar ou remover temas antes de confirmar.
-* Se não houver temas configurados, ou se o agente não encontrar correspondência com confiança, nenhuma sugestão é aplicada.
+* A sugestão usa somente os **temas ativos** cadastrados pela clínica.
+* Novos temas e temas inativados são considerados automaticamente.
+* O tema sugerido fica **pré-selecionado** para revisão antes da confirmação.
+* O atendente pode aceitar, trocar ou remover a sugestão.
+* O agente não sugere um tema sem confiança na classificação.
+
+Se não houver temas ativos, ou se a conversa não corresponder claramente a um tema, o atendimento fica sem sugestão. Nesse caso, o atendente seleciona o tema manualmente.
+
+{% hint style="info" %}
+Configure temas claros e específicos em **Configurações → Amigo Flow → Temas de Atendimento**. Uma estrutura bem definida melhora a qualidade das sugestões.
+{% endhint %}
 
 ### Categorização automática dos motivos de transferência <a href="#id-5bfbde83-7613-4308-b6eb-cc364e187a60" id="id-5bfbde83-7613-4308-b6eb-cc364e187a60"></a>
 
