@@ -55,17 +55,43 @@ Essa área apresenta um **resumo estatístico** dos atendimentos em determinado 
 * **Últimos 15 dias**
 * **Período personalizado**
 
-**Principais Indicadores**
+**Principais Indicadores:**\
+Acompanhe os principais resultados do Agente Flow no período selecionado:
 
-| Indicador                                     | Descrição                                                                     |
-| --------------------------------------------- | ----------------------------------------------------------------------------- |
-| **Total de conversas**                        | Número total de atendimentos realizados no período.                           |
-| **Tempo médio de resolução**                  | Tempo médio para concluir um atendimento, desde o início até o encerramento.  |
-| **Taxa de transferência**                     | Percentual de conversas que precisaram ser transferidas para outro atendente. |
-| **Resolvidas pelo Agente**                    | Percentual de conversas que foram concluídas pela IA sem intervenção humana.  |
-| **Agendadas pelo Agente**                     | Quantidade de consultas marcadas automaticamente pelo Agente Flow.            |
-| **Leads convertidos pelo Agente**             | Número de novos pacientes agendados a partir de interações com o agente.      |
-| **Iniciadas por leads / pacientes / clínica** | Origem dos atendimentos (quem iniciou a conversa).                            |
+* Receita gerada.
+* Tempo médio até a primeira resposta.
+* Tempo médio de resolução.
+* Qualidade do atendimento.
+* Agendamentos, confirmações de presença e leads convertidos.
+
+Você também pode consultar os **Motivos de transferência**, organizados por volume de ocorrências, para identificar os temas que mais levam um atendimento à equipe humana.
+
+### Capacidade da operação <a href="#id-90e70165-a6f1-4b70-8725-3120e633a1b5" id="id-90e70165-a6f1-4b70-8725-3120e633a1b5"></a>
+
+Veja como os atendimentos foram distribuídos e concluídos:
+
+* Total de atendimentos finalizados.
+* Percentual resolvido pelo Agente Flow.
+* Percentual transferido para atendentes.
+* Percentual finalizado por inatividade.
+* Tempo médio em aguardo e tempo médio de atendimento.
+
+A visualização de **Origem dos atendimentos** separa os dados entre pacientes, leads e clínica. A análise por **Setor** permite comparar o volume de atendimentos e o tempo em aguardo em cada área.
+
+### Qualidade da operação <a href="#id-1370562a-295e-4817-addc-4196927c7446" id="id-1370562a-295e-4817-addc-4196927c7446"></a>
+
+Acompanhe a qualidade dos atendimentos com:
+
+* Nota geral e distribuição das avaliações recebidas.
+* Ranking de atendentes.
+* **Qualidade por tema**, com ocorrências, percentual resolvido pelo Agente Flow e avaliação.
+* **Qualidade por atendente**, com busca e dados de atendimentos, tempo médio de primeira resposta, tempo médio de resolução e avaliação.
+
+### Filtros e disponibilidade dos dados <a href="#b99387ef-2168-47a7-bed8-4662ae8bddde" id="b99387ef-2168-47a7-bed8-4662ae8bddde"></a>
+
+Use os filtros de período, clínica, canal e setor quando eles estiverem disponíveis para o tipo de análise. Os blocos são atualizados de acordo com o recorte escolhido.
+
+Quando não houver dados para um período ou filtro, o dashboard indica que não há informações disponíveis. Caso apenas parte dos dados esteja disponível, os demais indicadores continuam sendo exibidos.
 
 Esses dados ajudam o gestor a identificar:
 
@@ -73,37 +99,7 @@ Esses dados ajudam o gestor a identificar:
 * O **tempo médio de resposta**, e
 * O **nível de engajamento** dos pacientes.
 
-#### Avaliação de Atendimento
 
-Exibe o **índice de satisfação dos pacientes**, com base nas avaliações pós-atendimento.
-
-* **Respostas:** número total de avaliações recebidas no período.
-* **Média geral:** nota média de satisfação (escala de 1 a 5).
-* **Ranking por  tipo de atendente:** mostra a pontuação média da equipe e do Agente Flow.
-
-> 💡 O Agente Flow também é avaliado, permitindo medir a aceitação e qualidade do atendimento automatizado.
-
-#### 3. Disparos automáticos
-
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
-
-Na parte inferior do Dashboard, o módulo de Disparos automáticos resume o progresso das disparos de confirmações de consultas e reagendamento após faltas realizadas pelo agente.
-
-**Exibe:**
-
-* **Gráfico de progresso:** percentual de confirmações/reagendamentos concluídos.
-* **Lista detalhada:** cada confirmação com:
-  * Nome do paciente
-  * Telefone
-  * Procedimento
-  * Status atual (Confirmado, Pendente, etc.)
-
-**Indicadores:**
-
-* **Total de confirmações/reagendamentos no período**
-* **Percentual de sucesso dos disparos automáticos**
-
-> Permite identificar se o volume de confirmações automáticas está coerente com a agenda da clínica e se há necessidade de reforço humano.
 
 ### Casos de Uso
 

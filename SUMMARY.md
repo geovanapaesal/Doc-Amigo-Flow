@@ -8,6 +8,7 @@
 ## Atalhos
 
 * [Novidades do Flow](atalhos/novidades-do-flow/README.md)
+  * [Lançamento de Setembro](atalhos/novidades-do-flow/lancamento-de-setembro.md)
   * [Lançamentos de Agosto](atalhos/novidades-do-flow/lancamentos-de-agosto.md)
   * [Lançamentos de Junho](atalhos/novidades-do-flow/lancamentos-de-junho.md)
   * [Atualizações Meta](atalhos/novidades-do-flow/atualizacoes-meta/README.md)
