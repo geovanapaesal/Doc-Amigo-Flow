@@ -107,17 +107,18 @@ Quando enviado ou agendado com sucesso, o sistema confirma visualmente a ação.
 
 Após o disparo (envio com status "Enviado") você pode clicar na campanha para abrir o painel detalhado
 
-
-
-Ele exibirá:
+<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 #### Métricas gerais por campanha:
 
 * **Público-alvo** (o planejado para envio incialmente)
-* **Mensagens enviadas**
-* **Entregues**
-* **Lidas** (essa métrica depende se o usuário possui verificação de leitura no whatsapp)
-* **Respondidas**
+* **Desempenho das mensagens**
+* **Modelo usado**
+* **Registros de Erros no Envio (mensagens que não foram enviadas)**
+* **Público afetado**
+* **Métrica de Leitura** (essa métrica depende se o usuário possui verificação de leitura no whatsapp)
+
+
 
 #### Lista individual dos contatos:
 
@@ -159,16 +160,9 @@ No reenvio, o sistema identifica automaticamente os pacientes que ainda não rec
 
 ## 6. Estimativa de custo por campanha
 
-Antes de confirmar o disparo, você vê exatamente quanto a campanha vai custar — calculado em tempo real com base no tipo de template e no público final selecionado.
+Antes de confirmar o disparo, você vê uma estimativa de quanto a campanha vai custar, calculado com base no público final selecionado.
 
-Custo por tipo de template
-
-| Categoria do template | Custo unitário    | Quando usar                                   |
-| --------------------- | ----------------- | --------------------------------------------- |
-| Marketing             | R$ 0,45 / contato | Promoções, campanhas de relacionamento        |
-| Utilidade             | R$ 0,10 / contato | Lembretes, confirmações, avisos transacionais |
-
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (62).png" alt="" width="375"><figcaption></figcaption></figure>
 
 O bloco exibe o breakdown completo: valor unitário × quantidade de contatos = total estimado. Atualiza automaticamente a cada mudança de filtro ou importação de lista.
 
@@ -176,14 +170,14 @@ O bloco exibe o breakdown completo: valor unitário × quantidade de contatos = 
 
 Após o envio, o custo estimado fica registrado nos detalhes da campanha para consulta e comparação.
 
-#### O que acontece se eu mudar o template depois de definir o público?
 
-O custo é recalculado automaticamente. Se você trocar de Marketing para Utilidade, o valor cai proporcionalmente sem precisar refazer nenhum passo.
 
-#### O custo fica registrado após o envio?
+#### O público fica registrado após o envio?
 
-Sim. O valor estimado no momento do disparo fica salvo nos detalhes da campanha para consulta posterior.
+Sim. O público estimado no momento do disparo fica salvo nos detalhes da campanha para consulta posterior.
+
+<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" icon="lightbulb" %}
-**Dica:** prefira templates de Utilidade para comunicações transacionais (lembretes de consulta, confirmações). Além de custar 78% menos por contato, eles tendem a ter taxas de entrega mais altas por serem esperados pelo paciente.
+**Dica:** prefira templates de Utilidade para comunicações transacionais (lembretes de consulta, confirmações). Eles tendem a ter taxas de entrega mais altas por serem esperados pelo paciente.
 {% endhint %}
