@@ -1,5 +1,20 @@
 # Lançamento de Setembro
 
+## **Atualização no Funil de leads**
+
+A clínica poderá agora ter uma visão de kanban no Funil de leads e definir uma regra única de conversão em **Configurações do funil**:
+
+* **Comparecimento no atendimento**: converte após a primeira consulta.
+* **Orçamento fechado**: converte quando o orçamento é aprovado.
+
+As etapas automáticas passam a ser obrigatórias e definidas pela regra escolhida. A seção de controles individuais de status automáticos será removida.
+
+Os indicadores e a listagem de **Leads convertidos** acompanharão a regra ativa. Aging, motivos de perda e perda automática por inatividade podem ser configurados pela clínica.
+
+{% content-ref url="../../funcionalidades/leads/" %}
+[leads](../../funcionalidades/leads/)
+{% endcontent-ref %}
+
 ## Novo tipo de envio automático: Pós-agendamento <a href="#id-71787702-2197-4ad9-9da6-4f6402924540" id="id-71787702-2197-4ad9-9da6-4f6402924540"></a>
 
 Novo tipo em **Envios automáticos**: **Pós-agendamento**. Agora é possível enviar mensagens após a criação de um agendamento, com intervalo configurável e filtros de público. O envio respeita o horário da consulta e é cancelado em cenários específicos de cancelamento ou reagendamento.
