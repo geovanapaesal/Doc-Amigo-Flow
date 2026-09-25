@@ -1,5 +1,15 @@
 # Lançamento de Setembro
 
+## Envios em massa
+
+A funcionalidade permite criar campanhas de WhatsApp para pacientes usando templates aprovados. É possível segmentar o público, acompanhar o envio por status, identificar campanhas com baixo desempenho e acessar os chats de cada destinatário.
+
+Também há reenvio apenas para contatos não alcançados, registro de auditoria e automações por campanha para encerrar ou transferir enviossem respostas. Os disparos ficam visíveis no histórico da conversa e contam como um consumo por destinatário.
+
+{% content-ref url="../../funcionalidades/envios/envios-em-massa.md" %}
+[envios-em-massa.md](../../funcionalidades/envios/envios-em-massa.md)
+{% endcontent-ref %}
+
 ## **Atualização no Funil de leads**
 
 A clínica poderá agora ter uma visão de kanban no Funil de leads e definir uma regra única de conversão em **Configurações do funil**:
