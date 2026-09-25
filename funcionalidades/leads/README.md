@@ -4,41 +4,37 @@ icon: user-magnifying-glass
 
 # Leads
 
-A base de Leads centraliza todos os contatos potenciais da sua clínica em um único lugar. Com ela, você visualiza, acompanha a jornada de cada lead, filtra por etapa ou origem, e inicia conversas diretamente pelo WhatsApp, tudo sem sair da tela.
+### Leads
 
-### Acessando a tela de Leads
+A base de Leads centraliza todos os contatos potenciais da sua clínica em um único lugar. Nela você visualiza os leads, acompanha a jornada de cada um, filtra por etapa ou origem e inicia conversas diretamente pelo WhatsApp, sem sair da tela.
 
-No menu principal do sistema, acesse a aba **Leads**. Você verá uma listagem com todos os leads cadastrados na clínica, acompanhada de cards de resumo por etapa e filtros para refinar a visualização.
+Veja vídeo explicativo clicando aqui:
 
-### Visão geral da tela
+{% embed url="https://drive.google.com/file/d/113Rj_EO0u9vOw9631lh8vM3vY1_oY9kt/view?usp=drive_link" %}
 
-A tela é composta por três áreas principais:
+#### Acessando a tela de Leads
 
-**Cards de resumo** — exibem a contagem total de leads em cada etapa da jornada. Clique em um card para filtrar a listagem automaticamente por aquele status.
+No menu principal do sistema, acesse a aba **Leads**. Você verá a listagem com todos os leads cadastrados na clínica, os cards de resumo por etapa e os filtros para refinar a visualização.
 
-**Barra de ações** — campo de busca por nome ou telefone, filtros avançados e botão para adicionar novos leads.
+#### Visão geral da tela
 
-**Tabela de leads** — listagem completa com informações de cada contato e ações rápidas.
+A tela tem três áreas principais:
 
-<div align="center"><figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure></div>
+* **Cards de resumo**: mostram quantos leads existem em cada etapa da jornada. Clique em um card para filtrar a listagem por aquela etapa.
+* **Barra de ações**: campo de busca por nome ou telefone, filtros avançados e botão para adicionar novos leads.
+* **Tabela de leads**: listagem completa com as informações de cada contato e ações rápidas.
 
-### Informações exibidas na tabela
+#### Informações exibidas na listagem
 
-| Coluna               | O que mostra                                                                                                               |
-| -------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| **Contato**          | Nome completo e telefone do lead                                                                                           |
-| **Última interação** | Responsável pelo último atendimento e há quanto tempo ocorreu. Exibe "Sem interação" para leads sem nenhuma conversa ainda |
-| **Status**           | Etapa atual do lead na jornada. Clicável para alteração direta                                                             |
-| **Criação**          | Quem criou o lead e a data de cadastro                                                                                     |
-| **Origem**           | Fonte de captação (ex: Google Ads, Instagram, Importação) e tipo de entrada                                                |
+<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
-Cada linha também exibe um ícone do WhatsApp para contato rápido e um menu de ações (três pontos) com opções adicionais.
+Cada linha também tem um ícone do WhatsApp para contato rápido e um menu de ações (três pontos) com opções adicionais.
 
-### Entendendo os status
+#### Entendendo os status
+
+Cada lead tem um status que indica em qual etapa da jornada ele está:
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (54).png" alt="" width="224"><figcaption></figcaption></figure></div>
-
-Cada lead possui um status que indica em qual etapa da jornada ele se encontra:
 
 | Status                  | Quando é atribuído                              |
 | ----------------------- | ----------------------------------------------- |
@@ -48,59 +44,104 @@ Cada lead possui um status que indica em qual etapa da jornada ele se encontra:
 | **Agendado**            | Lead com consulta marcada e ainda não realizada |
 | **Não convertido**      | Lead que faltou à consulta agendada             |
 
-Leads que **comparecem à consulta** são marcados como Convertidos e saem automaticamente da listagem. Leads **descartados** são convertidos em contatos e também deixam de aparecer aqui.
+
+
+O momento em que um lead passa para **Convertidos** depende da regra de conversão escolhida pela clínica (veja a seção abaixo). Os leads convertidos saem da listagem e do quadro do funil e passam a aparecer em **Leads convertidos**. Os leads descartados viram contatos e também deixam de aparecer aqui.
+
+#### Regra de conversão do funil
+
+Você pode definir quando a clínica considera um lead como convertido. Assim, o funil e os indicadores ficam alinhados ao processo comercial da sua equipe.
+
+**Escolhendo a regra de conversão**
+
+Em **Configurações do funil**, selecione uma única regra para toda a clínica:
+
+* **Comparecimento no atendimento**: o lead é convertido quando comparece à primeira consulta.
+* **Orçamento fechado**: o lead é convertido quando um orçamento é aprovado.
+
+<div align="center"><figure><img src="../../.gitbook/assets/image (60).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+A configuração vale para a clínica inteira. Depois de salva, ela passa a valer para o funil e para os indicadores de conversão.
+
+**Atenção:** ao trocar a regra de conversão, o funil e os indicadores passam a seguir apenas a nova regra, e a visualização da regra anterior deixa de ser exibida.
+
+**Etapas automáticas do funil**
+
+As etapas automáticas são definidas pela regra de conversão escolhida. Elas ficam no grupo **Finalização**, com a identificação **Automática**. Essas etapas não podem ser movidas, excluídas ou reordenadas, mas podem ser renomeadas conforme a organização da clínica.
+
+| Etapa automática                       | Comparecimento no atendimento                               | Orçamento fechado |
+| -------------------------------------- | ----------------------------------------------------------- | ----------------- |
+| Primeiro atendimento com falta         | Exibida                                                     | Exibida           |
+| Atendimento realizado/orçamento aberto | Não exibida, porque o comparecimento já conclui a conversão | Exibida           |
+
+**Leads convertidos e indicadores**
+
+Quando acontece o evento definido pela regra escolhida, o lead:
+
+* entra nos indicadores de conversão;
+* passa a aparecer na listagem de **Leads convertidos**;
+* deixa de aparecer no quadro do funil.
+
+Na regra **Orçamento fechado**, um lead em _Atendimento realizado/orçamento aberto_ é convertido quando o orçamento é aprovado.
+
+**O que permanece igual**
+
+As etapas Não iniciados, Em acolhimento, Prontos para agendar, Agendados e Não convertidos continuam funcionando como antes. A visualização dos cards, o aging, os motivos de perda e a perda automática por inatividade também não mudam.
 
 #### Transições automáticas
 
-O Amigo Flow atualiza alguns status sem que você precise fazer nada:
+O Amigo Flow atualiza alguns status automaticamente:
 
-* Quando um lead entra em contato pela primeira vez → **Em acolhimento**
-* Quando uma consulta é agendada → **Agendado**
-* Quando a consulta é realizada (comparecimento confirmado) → **Convertido** (sai da lista)
-* Quando o lead falta à consulta → **Não convertido**
-* Quando o lead é sincronizado com um paciente → **Descartado** (sai da lista)
-* Quando o lead é dessincronizado → retorna ao status anterior à sincronização
+* Quando o lead entra em contato pela primeira vez, ele vai para **Em acolhimento**.
+* Quando uma consulta é agendada, ele vai para **Agendados**.
+* Quando a consulta é realizada, o resultado depende da regra de conversão:
+  * Na regra **Comparecimento no atendimento**, o lead vai para **Convertidos** e sai da lista.
+  * Na regra **Orçamento fechado**, o lead vai para **Atendimento realizado/orçamento aberto**.
+* Na regra **Orçamento fechado**, quando o orçamento é aprovado, o lead vai para **Convertidos** e sai da lista.
+* Quando o lead falta à primeira consulta, ele vai para **Primeiro atendimento com falta**.
+* Quando o lead é sincronizado com um paciente, ele vai para **Descartados** e sai da lista.
+* Quando o lead é dessincronizado, ele volta ao status que tinha antes da sincronização.
 
-***
+#### Alterando o status de um lead
 
-### Alterando o status de um lead
+Você pode alterar o status direto pela listagem, sem abrir o cadastro completo:
 
-Você pode alterar o status diretamente pela listagem, sem abrir o cadastro completo:
+1. Localize o lead na tabela.
+2. Clique no status atual, na coluna **Status**.
+3. Selecione o novo status no menu.
 
-1. Localize o lead na tabela
-2. Clique no **status atual** exibido na coluna Status
-3. Selecione o novo status no menu
+**Atenção:**
 
-> **Atenção:** Leads que já tiveram alguma conversa não podem retornar ao status "Não iniciado". Para esses casos, essa opção não estará disponível no menu.
+* As etapas automáticas do grupo Finalização não podem ser selecionadas manualmente. Elas são atualizadas pelo sistema conforme a regra de conversão.
+* Você pode mover um lead manualmente para **Agendados**, mas ele só permanece nessa etapa se houver uma consulta agendada.
+* Leads que já tiveram alguma conversa não podem voltar para _Não iniciados_. Para eles, essa opção não aparece no menu.
 
-Ao selecionar **Descartado**, uma confirmação será solicitada antes de concluir a ação. O lead é convertido em contato e removido da listagem.
+Ao selecionar **Descartados**, o sistema pede uma confirmação antes de concluir. O lead vira contato e sai da listagem.
 
-### Buscando e filtrando leads
+#### Buscando e filtrando leads
 
-**Busca rápida:** digite o nome ou telefone (completo ou parcial) no campo de busca no topo da listagem. O sistema filtra os resultados instantaneamente.
+**Busca rápida:** digite o nome ou o telefone, completo ou parcial, no campo de busca no topo da listagem. Os resultados são filtrados na hora.
 
 **Filtros disponíveis:**
 
-* **Status** — clique em um card de resumo ou use o filtro para exibir leads de uma etapa específica
-* **Origem** — exibe apenas leads vindos de canais específicos (Instagram, Google Ads, Importação etc.)
-* **Etiquetas** — agrupa leads por tags de interesse
-* **Data de criação** — ideal para acompanhar campanhas recentes
+* **Status**: clique em um card de resumo ou use o filtro para ver os leads de uma etapa.
+* **Origem**: mostra apenas os leads vindos de canais específicos, como Instagram, Google Ads ou Importação.
+* **Etiquetas**: agrupa os leads por tags de interesse.
+* **Data de criação**: ideal para acompanhar campanhas recentes.
 
 Você pode combinar filtros para uma busca mais precisa.
 
-### Ordenação
+#### Ordenação
 
-A ordenação padrão segue a progressão da jornada: Não iniciado → Em acolhimento → Pronto para agendar → Agendado → Não convertido.
+A ordenação padrão segue a progressão da jornada: Não iniciados → Em acolhimento → Prontos para agendar → Agendados → Não convertidos.
 
-Clique nos cabeçalhos das colunas **Status**, **Criação**, **Origem** ou **Contato** para reordenar a listagem e alternar entre crescente e decrescente.
+Clique nos cabeçalhos das colunas Status, Criação, Origem ou Contato para reordenar a listagem e alternar entre ordem crescente e decrescente.
 
-### Adicionando novos leads
+#### Adicionando novos leads
 
 Clique em **"+ Adicionar Leads"** para cadastrar manualmente ou importar em lote.
 
-#### Cadastro manual
-
-Um formulário será exibido com os seguintes campos:
+**Cadastro manual:** um formulário é exibido com os campos abaixo.
 
 | Campo    | Tipo     | Obrigatório | Observação                  |
 | -------- | -------- | ----------- | --------------------------- |
@@ -108,52 +149,40 @@ Um formulário será exibido com os seguintes campos:
 | Telefone | Numérico | ✅           | Deve conter DDD             |
 | Origem   | Seleção  | ✅           | Escolha o canal de captação |
 
-Após salvar, o lead aparece imediatamente na listagem com status **Não iniciado**.
+Depois de salvar, o lead aparece na listagem com status **Não iniciados**.
 
-#### Importação em lote
+**Importação em lote:** ao importar uma planilha (por exemplo, CSV), o sistema cria automaticamente uma origem do tipo _Importação #_ com numeração sequencial (Importação #1, Importação #2 etc.). Você pode renomear essa origem durante o processo. Todos os leads importados começam com status **Não iniciados**.
 
-Ao importar uma planilha (ex: CSV), o sistema cria automaticamente uma origem do tipo **Importação #** com numeração sequencial (Importação #1, Importação #2 etc.). Você pode renomear essa origem durante o processo. Todos os leads importados iniciam com status **Não iniciado**.
+_(_
 
-### Gerenciando etiquetas
+#### Perguntas frequentes
 
-As etiquetas funcionam como marcadores de interesse ou contexto, facilitando o agrupamento de leads. Cada lead pode ter uma ou várias etiquetas, exibidas visualmente na listagem.
+**Por que um lead desapareceu da listagem?**\
+Quando acontece o evento de conversão definido pela clínica (comparecimento ou orçamento aprovado), o lead vai para **Convertidos** e passa a aparecer em **Leads convertidos**. Os leads descartados também saem da listagem e passam a ser exibidos como contatos.
 
-Exemplos de uso: `Pré-consulta` · `Campanha julho` · `Indicação` · `Interesse em ortodontia`
+**Onde defino quando um lead é considerado convertido?**\
+Em **Configurações do funil**, escolhendo entre _Comparecimento no atendimento_ e _Orçamento fechado_. A regra vale para toda a clínica.
 
-### Exportando leads
+**Posso trocar a regra de conversão depois?**\
+Sim. Ao trocar, o funil e os indicadores passam a seguir apenas a nova regra, e a visualização da regra anterior deixa de ser exibida.
 
-Para exportar sua base:
+**Por que não encontro mais a seção Status automáticos?**\
+Agora as etapas automáticas são definidas pela regra de conversão, então não é mais preciso ativá-las ou desativá-las uma a uma.
 
-1. Aplique os filtros desejados (opcional)
-2. Clique no botão de exportação
+**Posso mover um lead manualmente para uma etapa automática?**\
+Não. As etapas do grupo Finalização são atualizadas apenas pelo sistema. Você pode mover um lead para **Agendados**, mas ele só permanece nessa etapa se houver uma consulta agendada.
 
-A planilha gerada inclui todos os dados da listagem com a coluna de status. Se um filtro estiver ativo, apenas os leads filtrados serão exportados.
+**Posso renomear as etapas automáticas?**\
+Sim. Você pode renomeá-las, mas não pode movê-las, excluí-las nem reordená-las.
 
-### Contatando leads pelo WhatsApp
+**Posso desfazer a sincronização de um lead com um paciente?**\
+Sim. Ao dessincronizar, o lead volta ao status que tinha antes e reaparece na listagem.
 
-À direita de cada lead há um ícone do WhatsApp:
+**O status pode mudar mais de uma vez automaticamente?**\
+Sim. O sistema acompanha a jornada continuamente. Por exemplo, na regra _Orçamento fechado_, um lead pode ir para Agendados, depois para Atendimento realizado/orçamento aberto e, quando o orçamento for aprovado, para Convertidos.
 
-* **Número com conta ativa** → abre o WhatsApp diretamente no navegador ou aplicativo, com o número já formatado
-* **Número sem WhatsApp** → ícone aparece cinza com tooltip: _"Este número não possui WhatsApp vinculado."_
-
-O sistema utiliza o formato internacional automaticamente, garantindo compatibilidade com o app.
-
-### Origens e canais de entrada
-
-**Origens disponíveis:** Instagram · Facebook · WhatsApp · Telegram · Site da clínica · Google Meu Negócio · Meta Ads · Google Ads · Chat do site · Indicação · Evento · Formulário de landing page · Google Forms · Lista de transmissão no WhatsApp · Campanha de e-mail marketing · Outro
-
-**Tipos de entrada:** Detecção automática (via agente) · Importação · Manual
-
-### Perguntas frequentes
-
-**Por que um lead desapareceu da listagem?** Leads que comparecem à consulta são movidos para Convertido e saem automaticamente. Leads descartados também são removidos e passam a ser exibidos como contatos.
-
-**Posso desfazer a sincronização de um lead com um paciente?** Sim. Ao dessincronizar, o lead retorna ao status que tinha antes e volta a aparecer na listagem.
-
-**O status pode mudar mais de uma vez automaticamente?** Sim. O sistema acompanha a jornada continuamente. Um lead pode receber o status Agendado assim que a consulta for marcada e, após a consulta, ser atualizado para Convertido automaticamente.
-
-**Como a paginação funciona?** A listagem é paginada para facilitar o carregamento. Navegue entre páginas pelo controle na parte inferior da tela.
+**Como a paginação funciona?**\
+A listagem é paginada para facilitar o carregamento. Navegue entre as páginas pelo controle na parte inferior da tela.
 
 
 
-###
