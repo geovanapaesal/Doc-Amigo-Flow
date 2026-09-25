@@ -39,7 +39,8 @@
 
 ## Funcionalidades
 
-* [Guia prático do Agente Flow](funcionalidades/guia-pratico-do-agente-flow.md)
+* [Guia prático do Agente Flow](funcionalidades/guia-pratico-do-agente-flow/README.md)
+  * [Agente Classic](funcionalidades/guia-pratico-do-agente-flow/agente-classic.md)
 * [Meu dia](funcionalidades/meu-dia.md)
 * [Dashboard de atendimentos](funcionalidades/dashboard-de-atendimentos.md)
 * [Chats](funcionalidades/chats/README.md)
