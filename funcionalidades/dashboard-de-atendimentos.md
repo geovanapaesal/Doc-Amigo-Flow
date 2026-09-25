@@ -14,6 +14,8 @@ Essa tela reúne **indicadores operacionais e de qualidade**, oferecendo uma vis
 
 A funcionalidade pode ser acessada pelo menu superior do sistema, na aba **“Dashboard”** dentro do módulo **Amigo Flow**.
 
+{% embed url="https://drive.google.com/file/d/1j9fX7kI3YEmCPA-qoepAUYsSvdy78VeA/view?usp=drive_link" %}
+
 ### Estrutura do Dashboard
 
 O Dashboard é dividido em **três seções principais**:
