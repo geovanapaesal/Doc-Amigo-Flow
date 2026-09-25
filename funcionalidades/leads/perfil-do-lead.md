@@ -16,7 +16,7 @@ No perfil, você pode:
 * acompanhar a jornada do lead em contatos e agendamentos;
 * monitorar pendências ativas e concluídas no mesmo contexto.
 
-{% file src="../../.gitbook/assets/Perfil do Lead.mp4" %}
+{% embed url="https://drive.google.com/file/d/13pA02LxoKusERyqP15BpmSS8hMkOeUrW/view?usp=drive_link" %}
 
 {% hint style="info" icon="lightbulb-on" %}
 **Na prática:** pense no Perfil do Lead como a "ficha única" do paciente antes de qualquer conversa. Em vez de abrir o histórico de conversas, depois a agenda, depois as pendências em telas separadas, a recepção ou o time de atendimento abre um único modal e já sai dali com a resposta pronta para o lead, seja para confirmar um horário, tirar uma dúvida ou reengajar quem sumiu.
