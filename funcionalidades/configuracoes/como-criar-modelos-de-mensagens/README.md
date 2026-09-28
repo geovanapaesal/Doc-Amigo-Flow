@@ -14,7 +14,7 @@ Os modelos podem ser utilizados em:
 
 Isso garante uma comunicação mais profissional, consistente e automatizada.
 
-
+{% embed url="https://drive.google.com/file/d/1zOuLfcFNvVbd4PMCH4145c5STvH9sxky/view?usp=sharing" %}
 
 ### Passo 1: Acessar o canal com um número conectado
 
