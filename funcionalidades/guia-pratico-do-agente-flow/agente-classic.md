@@ -74,17 +74,19 @@ Revise o caminho completo e clique em **Publicar**. Se quiser sair sem salvar, c
 
 Ao adicionar um passo, você escolhe entre sete tipos. Todos têm o campo **Nome do passo**, que aparece no desenho do fluxo e facilita a organização.
 
-<figure><img src="../../.gitbook/assets/image (66).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (69).png" alt="" width="375"><figcaption></figcaption></figure>
 
-| Passo                   | O que faz                                                        |
-| ----------------------- | ---------------------------------------------------------------- |
-| **Enviar mensagem**     | O bot envia um texto (e, se quiser, um arquivo).                 |
-| **Perguntar e esperar** | O bot faz uma pergunta e aguarda a resposta do paciente.         |
-| **Dar opções**          | O paciente escolhe entre botões, e cada opção leva a um caminho. |
-| **Verificar condição**  | O fluxo segue por dois caminhos, de acordo com uma regra.        |
-| **Iniciar agendamento** | O agente de IA assume e agenda o paciente.                       |
-| **Transferir**          | A conversa passa para um setor ou uma pessoa da equipe.          |
-| **Encerrar**            | Finaliza a conversa.                                             |
+| Passo                     | O que faz                                                                              |
+| ------------------------- | -------------------------------------------------------------------------------------- |
+| **Enviar mensagem**       | O bot envia um texto (e, se quiser, um arquivo).                                       |
+| **Perguntar e esperar**   | O bot faz uma pergunta e aguarda a resposta do paciente.                               |
+| **Dar opções**            | O paciente escolhe entre botões, e cada opção leva a um caminho.                       |
+| **Verificar condição**    | O fluxo segue por dois caminhos, de acordo com uma regra.                              |
+| **Iniciar agendamento**   | O agente de IA assume e agenda o paciente.                                             |
+| **Iniciar reagendamento** | Ao reagendar, o bot busca novos horários mantendo as informações originais da consulta |
+| **Iniciar cancelamento**  | o bot realiza o cancelamento de consultas                                              |
+| **Transferir**            | A conversa passa para um setor ou uma pessoa da equipe.                                |
+| **Encerrar**              | Finaliza a conversa.                                                                   |
 
 #### Enviar mensagem
 
@@ -144,6 +146,47 @@ Entrega a conversa para a **habilidade de agendamento** do agente de IA, que age
 {% hint style="warning" %}
 Este passo depende da habilidade de agendamento do agente estar ativa. Se ela estiver desativada, a conversa é transferida automaticamente para o setor padrão da conta — o paciente não fica sem atendimento.&#x20;
 {% endhint %}
+
+#### Reagendar uma consulta <a href="#id-145d4271-4d58-43a3-b7c6-484ba54960e4" id="id-145d4271-4d58-43a3-b7c6-484ba54960e4"></a>
+
+O paciente pode reagendar as próprias consultas futuras quando a clínica tiver a habilidade de **Reagendamento** configurada para o canal e para o tipo de atendimento.
+
+A disponibilidade pode ser definida por:
+
+* Unidades
+* Profissionais
+* Convênios
+* Tipos de atendimento
+
+Ao reagendar, o Flow busca novos horários mantendo as informações originais da consulta. Não é possível trocar profissional, unidade, convênio ou tipo de atendimento nesse fluxo.
+
+Antes de confirmar qualquer alteração, o Flow apresenta a opção escolhida e pede confirmação do paciente.
+
+{% hint style="warning" %}
+Este passo depende da habilidade de reagendamento do agente estar ativa. Se ela estiver desativada, a conversa é transferida automaticamente para o setor padrão da conta, o paciente não fica sem atendimento.&#x20;
+{% endhint %}
+
+#### Cancelar uma consulta <a href="#id-9be52f74-9670-4830-a634-32b1ccf480e7" id="id-9be52f74-9670-4830-a634-32b1ccf480e7"></a>
+
+O paciente pode cancelar as próprias consultas futuras quando a habilidade de **Cancelamento** estiver disponível para a clínica. A clínica pode configurar o prazo mínimo para cancelamento. Esse prazo é calculado em horas corridas.
+
+Quando o cancelamento não puder ser realizado automaticamente , por exemplo, por falta de identificação do paciente, consulta fora das regras de elegibilidade ou falha técnica,o atendimento é encaminhado para a equipe responsável.
+
+**Oferecer reagendamento antes do cancelamento**
+
+Quando **Reagendamento** estiver ativo e a opção **Oferecer remarcar antes de cancelar** estiver habilitada, o Flow pode sugerir um novo horário antes de concluir o cancelamento.
+
+A sugestão só aparece quando a consulta também atende às regras de reagendamento. Caso o paciente escolha remarcar, a alteração é concluída na mesma conversa.
+
+**Cancelar todas as consultas elegíveis**
+
+Quando houver duas ou mais consultas elegíveis, o Flow apresenta **Cancelar todas** como a primeira opção.
+
+Antes de continuar, ele informa quantas consultas serão canceladas e pede confirmação. Depois disso, os cancelamentos são realizados um a um e o resultado é informado ao paciente.
+
+* Consultas com pagamento vinculado não são canceladas automaticamente e seguem para atendimento humano
+* Se uma consulta não puder ser cancelada durante o processo, as que já foram canceladas permanecem canceladas
+* A opção de cancelar todas não oferece reagendamento antes do cancelamento
 
 #### Transferir
 
