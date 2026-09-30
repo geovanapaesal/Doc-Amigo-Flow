@@ -39,7 +39,7 @@ Quando a IA terminar, o painel exibirá:
 
 > ✅ **Lembre-se:** a mensagem **nunca é enviada automaticamente**. Você sempre tem a última palavra.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Tom de voz
 

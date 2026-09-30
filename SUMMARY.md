@@ -12,6 +12,7 @@
   * [Lançamentos de Agosto](atalhos/novidades-do-flow/lancamentos-de-agosto.md)
   * [Lançamentos de Junho](atalhos/novidades-do-flow/lancamentos-de-junho.md)
   * [Atualizações Meta](atalhos/novidades-do-flow/atualizacoes-meta/README.md)
+    * [Nova precificação da Meta para o WhatsApp (a partir de 1º de outubro de 2026)](atalhos/novidades-do-flow/atualizacoes-meta/nova-precificacao-da-meta-para-o-whatsapp-a-partir-de-1o-de-outubro-de-2026.md)
     * [Conecte seu WhatsApp ao Amigo Flow — Método QR Code (Coexistência)](atalhos/novidades-do-flow/atualizacoes-meta/conecte-seu-whatsapp-ao-amigo-flow-metodo-qr-code-coexistencia.md)
     * [Agente Flow pode ser banido pela Meta?](atalhos/novidades-do-flow/atualizacoes-meta/agente-flow-pode-ser-banido-pela-meta.md)
   * [Dessincronizar Paciente](atalhos/novidades-do-flow/dessincronizar-paciente.md)
