@@ -181,3 +181,5 @@ Sim. O público estimado no momento do disparo fica salvo nos detalhes da campan
 {% hint style="info" icon="lightbulb" %}
 **Dica:** prefira templates de Utilidade para comunicações transacionais (lembretes de consulta, confirmações). Eles tendem a ter taxas de entrega mais altas por serem esperados pelo paciente.
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (73).png" alt="" width="181"><figcaption></figcaption></figure>

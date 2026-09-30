@@ -69,3 +69,6 @@ A sugestão de IA está disponível **somente em conversas ativas no módulo Meu
 
 **Posso usar a sugestão em qualquer conversa?** Apenas em conversas ativas no módulo de Chat (Meus Chats). O chat flutuante e outros módulos não têm acesso a esta funcionalidade.
 
+
+
+<figure><img src="../../.gitbook/assets/image (76).png" alt="" width="181"><figcaption></figcaption></figure>

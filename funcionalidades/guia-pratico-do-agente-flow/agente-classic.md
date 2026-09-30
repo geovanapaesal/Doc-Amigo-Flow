@@ -317,3 +317,7 @@ Sim. No passo **Enviar mensagem**, use **Anexar arquivo** para enviar imagens, P
 #### Minhas alterações valem na hora?
 
 As alterações passam a valer depois que você clica em **Publicar**. Se sair com **Cancelar**, nada é salvo.
+
+
+
+<figure><img src="../../.gitbook/assets/image (71).png" alt="" width="181"><figcaption></figcaption></figure>

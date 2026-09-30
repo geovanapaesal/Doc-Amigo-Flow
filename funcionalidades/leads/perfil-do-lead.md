@@ -123,3 +123,6 @@ Quando uma pendência tiver prazo vencido, isso também fica sinalizado com clar
 
 **Dica para o dia a dia da clínica:** um bom hábito é abrir o Perfil do Lead como primeiro passo de qualquer atendimento — antes de responder, confirmar um horário ou fazer uma ligação. Isso garante que quem estiver na ponta (recepção, comercial ou atendimento) sempre converse com o lead sabendo o que já foi dito, o que está pendente e o que a clínica já sabe sobre aquela pessoa, mesmo que seja a primeira vez que esse atendente fala com ela.
 
+
+
+<figure><img src="../../.gitbook/assets/image (75).png" alt="" width="181"><figcaption></figcaption></figure>
