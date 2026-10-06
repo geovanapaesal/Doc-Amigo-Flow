@@ -32,7 +32,7 @@ A aba **Número e Conta** passa a ser o primeiro passo operacional do canal.
   * Os **status das etapas** (validação da empresa, ativação da conta, etc.) ficam visíveis nessa aba
   * O cliente acompanha claramente em que fase está
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 #### Após a associação
 
@@ -105,6 +105,6 @@ Escolha uma mensagem de saudação para ser enviada sempre que os pacientes entr
 
 Ative e Configure a avaliação de atendimento para a sua clínica, que será enviada ao finalizar os atendimentos.
 
-{% content-ref url="avaliacao-de-atendimento.md" %}
-[avaliacao-de-atendimento.md](avaliacao-de-atendimento.md)
+{% content-ref url="../avaliacao-de-atendimento.md" %}
+[avaliacao-de-atendimento.md](../avaliacao-de-atendimento.md)
 {% endcontent-ref %}
