@@ -8,13 +8,12 @@ description: >-
 
 ## Fluxos de atendimento
 
-Os **Fluxos** são roteiros automáticos que conduzem a conversa com o paciente assim que ele chama sua clínica. Você desenha o caminho em uma tela visual, passo a passo: o que o bot diz, quais opções o paciente vê, quando o agente de IA assume o agendamento e em que momento a conversa vai para a sua equipe.
+Os **Fluxos** são roteiros automáticos que conduzem a conversa com o paciente assim que ele chama sua clínica. Você desenha o caminho em uma tela visual, passo a passo: o que o bot diz, quais opções o paciente vê e em que momento a conversa vai para a sua equipe.
 
 **Com um fluxo, você pode:**
 
 * Receber o paciente com uma saudação padronizada, 24 horas por dia.
 * Direcionar cada assunto para o lugar certo: agendamento, dúvidas, preparos de exame, financeiro.
-* Entregar ao agente de IA os pedidos de agendamento, com aceite de termos (LGPD) incluído.
 * Responder de um jeito dentro do horário de funcionamento e de outro fora dele.
 * Transferir para o setor ou para a pessoa certa, já com o tema do atendimento definido.
 
@@ -82,7 +81,7 @@ Ao adicionar um passo, você escolhe entre sete tipos. Todos têm o campo **Nome
 | **Perguntar e esperar**   | O bot faz uma pergunta e aguarda a resposta do paciente.                               |
 | **Dar opções**            | O paciente escolhe entre botões, e cada opção leva a um caminho.                       |
 | **Verificar condição**    | O fluxo segue por dois caminhos, de acordo com uma regra.                              |
-| **Iniciar agendamento**   | O agente de IA assume e agenda o paciente.                                             |
+| **Iniciar agendamento**   | O bot inicia o fluxo de agendamento                                                    |
 | **Iniciar reagendamento** | Ao reagendar, o bot busca novos horários mantendo as informações originais da consulta |
 | **Iniciar cancelamento**  | o bot realiza o cancelamento de consultas                                              |
 | **Transferir**            | A conversa passa para um setor ou uma pessoa da equipe.                                |
@@ -257,9 +256,7 @@ Conversa começa
       └─ Falar com atendente → Transferir (setor ou pessoa)
 ```
 
-Para atender também fora do expediente, inclua um passo **Verificar condição** logo após a saudação: dentro do horário, o paciente segue para o menu; fora dele, recebe um aviso e a opção de agendar com a IA.
 
-***
 
 ### Gerenciar seus fluxos
 
