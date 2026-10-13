@@ -20,17 +20,23 @@ Confira estes três pontos. Eles evitam a maioria dos problemas na conexão.
 
 #### 1. Abra a área de canais
 
-No Amigo Flow, acesse **Configurações → Canais** e clique em **Conectar** no card do **Instagram**.
+No Amigo Flow, acesse **Configurações → Canais** e clique em **Criar canal** e selecionar o tipo **Instagram**.
 
 #### 2. Entre com a conta da Meta
 
 Uma janela da Meta vai abrir. Entre com o login que administra o Instagram da clínica.
 
+<figure><img src="../../../.gitbook/assets/Captura de Tela 2026-10-13 às 15.07.56.png" alt="" width="375"><figcaption></figcaption></figure>
+
 #### 3. Escolha a conta e autorize
 
 Selecione o perfil do Instagram da clínica e mantenha marcadas as permissões de mensagens. Clique em **Continuar** até concluir. Sem essas permissões, o Amigo não consegue receber nem responder o Direct.
 
+<figure><img src="../../../.gitbook/assets/Captura de Tela 2026-10-13 às 15.09.24.png" alt="" width="375"><figcaption></figcaption></figure>
+
 #### 4. Confirme a conexão
+
+<figure><img src="../../../.gitbook/assets/Captura de Tela 2026-10-13 às 15.09.43.png" alt="" width="375"><figcaption></figcaption></figure>
 
 De volta ao Amigo Flow, o card do Instagram mostra **Conectado** com o nome do perfil. A partir daqui, toda nova mensagem enviada ao Direct da clínica aparece na Central de mensagens.
 
@@ -52,9 +58,7 @@ Pelo próprio atendimento você pode criar uma tarefa, abrir uma oportunidade ou
 
 #### Origem da conversa
 
-Quando a pessoa chega por um anúncio ou campanha, a conversa mostra a origem. Assim a clínica sabe quais ações trazem contatos novos e quais trazem pacientes de volta.
-
-***
+Quando a pessoa chega por um anúncio ou story, a conversa mostra a origem. Assim a clínica sabe quais ações trazem contatos novos e quais trazem pacientes de volta.
 
 ### Como o Instagram funciona na Central
 
