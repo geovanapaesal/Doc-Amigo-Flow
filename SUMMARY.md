@@ -51,6 +51,7 @@
   * [Menções](funcionalidades/chats/mencoes.md)
 * [Painéis](funcionalidades/paineis.md)
 * [Envios](funcionalidades/envios/README.md)
+  * [Não Pertube](funcionalidades/envios/nao-pertube.md)
   * [Envios automáticos](funcionalidades/envios/envios-automaticos/README.md)
     * [Guia de Mensagens para Envios Automáticos](funcionalidades/envios/envios-automaticos/guia-de-mensagens-para-envios-automaticos.md)
   * [Envios em massa](funcionalidades/envios/envios-em-massa.md)
