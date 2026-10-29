@@ -15,6 +15,10 @@ Sem sair da central, você pode:
 * consultar o perfil do contato;
 * resolver demandas como agendar, criar tarefa ou enviar um orçamento.
 
+Veja aqui o tour guiado:<br>
+
+{% embed url="https://drive.google.com/file/d/1Hbwgf0rOck_ijMh3kkKb2uWUe7vjayD1/view?usp=drive_link" %}
+
 ### Conceitos importantes
 
 * **Conversa:** troca de mensagens com um contato em um canal.
