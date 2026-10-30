@@ -8,6 +8,7 @@
 ## Atalhos
 
 * [Novidades do Flow](atalhos/novidades-do-flow/README.md)
+  * [Nova navegação do Amigo Flow](atalhos/novidades-do-flow/nova-navegacao-do-amigo-flow.md)
   * [Lançamento de Setembro](atalhos/novidades-do-flow/lancamento-de-setembro.md)
   * [Lançamentos de Agosto](atalhos/novidades-do-flow/lancamentos-de-agosto.md)
   * [Lançamentos de Junho](atalhos/novidades-do-flow/lancamentos-de-junho.md)
