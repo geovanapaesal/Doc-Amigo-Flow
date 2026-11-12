@@ -101,5 +101,5 @@ Se tiver dúvidas sobre a nova precificação ou quiser ajuda para revisar seus 
 
 
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="181"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="181"><figcaption></figcaption></figure>
 

@@ -51,6 +51,7 @@
   * [Melhorar resposta com IA](funcionalidades/central-de-atendimento/melhorar-resposta-com-ia.md)
   * [Notas internas](funcionalidades/central-de-atendimento/notas-internas.md)
   * [Menções](funcionalidades/central-de-atendimento/mencoes.md)
+  * [Rastreio de anúncios do Meta Ads](funcionalidades/central-de-atendimento/rastreio-de-anuncios-do-meta-ads.md)
 * [Painéis](funcionalidades/paineis.md)
 * [Envios](funcionalidades/envios/README.md)
   * [Não Pertube](funcionalidades/envios/nao-pertube.md)
