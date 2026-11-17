@@ -45,7 +45,7 @@
 
 * [Guia prático do Agente Flow](funcionalidades/guia-pratico-do-agente-flow/README.md)
   * [Agente Classic](funcionalidades/guia-pratico-do-agente-flow/agente-classic.md)
-* [Meu dia](funcionalidades/meu-dia.md)
+* [Tarefas do dia](funcionalidades/tarefas-do-dia.md)
 * [Dashboard de atendimentos](funcionalidades/dashboard-de-atendimentos.md)
 * [Central de Atendimento](funcionalidades/central-de-atendimento/README.md)
   * [Melhorar resposta com IA](funcionalidades/central-de-atendimento/melhorar-resposta-com-ia.md)

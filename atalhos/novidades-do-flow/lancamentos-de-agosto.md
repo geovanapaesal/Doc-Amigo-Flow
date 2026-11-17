@@ -66,7 +66,7 @@ Na prática, a expectativa é apoiar a equipe a:<br>
 
 Saiba mais em:
 
-{% content-ref url="../../funcionalidades/meu-dia.md" %}
-[meu-dia.md](../../funcionalidades/meu-dia.md)
+{% content-ref url="../../funcionalidades/tarefas-do-dia.md" %}
+[tarefas-do-dia.md](../../funcionalidades/tarefas-do-dia.md)
 {% endcontent-ref %}
 
