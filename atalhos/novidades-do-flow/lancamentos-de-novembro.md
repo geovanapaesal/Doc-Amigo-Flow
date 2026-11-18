@@ -22,3 +22,42 @@ Agora, as clínicas podem direcionar as comunicações para atendimentos particu
 
 Agora, o nome do termo aparece no chat do atendente e na mensagem recebida pelo paciente. Quando vários termos são enviados na mesma conversa, cada um fica identificado individualmente.\
 Isso facilita a conferência pela equipe e deixa mais claro para o paciente qual documento ele está assinando.
+
+### Melhorias na Central de atendimento
+
+Reformulamos a central de atendimento do Amigo Flow. E trouxemos novas funcionalidades:
+
+* Selecione a ordenação de conversas que você deseja: Você pode escolher a forma como quer ordenar sua fila de atendimento.
+* Gerencie várias conversas de uma só vez: Selecione várias conversas para finalizar atendimentos, transferi-los ou adicionar temas em massa. A seleção ficou mais visível, e as ações são realizadas diretamente, sem precisar clicar em “Aplicar”
+
+<p align="center"><img src="../../.gitbook/assets/image (91).png" alt="" data-size="original"><br></p>
+
+Saiba mais em:&#x20;
+
+{% content-ref url="../../funcionalidades/central-de-atendimento/" %}
+[central-de-atendimento](../../funcionalidades/central-de-atendimento/)
+{% endcontent-ref %}
+
+### Novo Módulo de Tarefas
+
+#### Organize e acompanhe as atividades da clínica:
+
+Visualize as tarefas em quadro ou lista e acompanhe responsáveis, prioridades e prazos. Conforme suas permissões, você pode consultar suas atividades, as da equipe ou as da clínica, além de identificar tarefas que ainda estão sem responsável.\
+\
+O histórico de cada tarefa permite acompanhar as alterações e manter o contexto do que precisa ser feito.
+
+<figure><img src="../../.gitbook/assets/image (94).png" alt="" width="563"><figcaption></figcaption></figure>
+
+#### Acesse suas tarefas sem sair da tela em que está:
+
+Com o menu de tarefas disponível em qualquer tela, você pode consultar atividades e criar novas tarefas rapidamente, sem interromper o atendimento.\
+\
+As abas Comigo e Deleguei ajudam a separar as tarefas sob sua responsabilidade daquelas que você encaminhou para outras pessoas.
+
+<figure><img src="../../.gitbook/assets/image (93).png" alt="" width="375"><figcaption></figcaption></figure>
+
+Saiba mais em:
+
+{% content-ref url="../../funcionalidades/tarefas-do-dia.md" %}
+[tarefas-do-dia.md](../../funcionalidades/tarefas-do-dia.md)
+{% endcontent-ref %}

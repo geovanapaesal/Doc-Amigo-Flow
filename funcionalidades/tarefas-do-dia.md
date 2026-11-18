@@ -189,7 +189,7 @@ O ícone de tarefas no topo do sistema acompanha você em todas as páginas do A
 
 O contador no ícone mostra quantas tarefas suas estão pendentes. Ele fica **vermelho** quando há tarefas atrasadas e **azul** quando está tudo no prazo. Um ponto azul avisa quando chegou uma tarefa nova que você ainda não viu.
 
-
+<figure><img src="../.gitbook/assets/image (92).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **O que você encontra no menu**
 
