@@ -26,7 +26,7 @@ A tela tem três áreas principais:
 
 #### Informações exibidas na listagem
 
-<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 Cada linha também tem um ícone do WhatsApp para contato rápido e um menu de ações (três pontos) com opções adicionais.
 
@@ -34,7 +34,7 @@ Cada linha também tem um ícone do WhatsApp para contato rápido e um menu de a
 
 Cada lead tem um status que indica em qual etapa da jornada ele está:
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (54).png" alt="" width="224"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (54).png" alt="" width="224"><figcaption></figcaption></figure></div>
 
 | Status                  | Quando é atribuído                              |
 | ----------------------- | ----------------------------------------------- |
@@ -59,7 +59,7 @@ Em **Configurações do funil**, selecione uma única regra para toda a clínica
 * **Comparecimento no atendimento**: o lead é convertido quando comparece à primeira consulta.
 * **Orçamento fechado**: o lead é convertido quando um orçamento é aprovado.
 
-<div align="center"><figure><img src="../../.gitbook/assets/image (60).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/image (60).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 A configuração vale para a clínica inteira. Depois de salva, ela passa a valer para o funil e para os indicadores de conversão.
 
@@ -186,4 +186,4 @@ A listagem é paginada para facilitar o carregamento. Navegue entre as páginas 
 
 
 
-<figure><img src="../../.gitbook/assets/image (74).png" alt="" width="181"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (74).png" alt="" width="181"><figcaption></figcaption></figure>

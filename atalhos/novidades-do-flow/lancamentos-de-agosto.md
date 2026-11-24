@@ -49,8 +49,8 @@ Na prática, isso ajuda a:
 
 Saiba mais clicando na documentação abaixo:&#x20;
 
-{% content-ref url="../../funcionalidades/leads/perfil-do-lead.md" %}
-[perfil-do-lead.md](../../funcionalidades/leads/perfil-do-lead.md)
+{% content-ref url="../../funcionalidades/funis-de-conversao/leads/perfil-do-lead.md" %}
+[perfil-do-lead.md](../../funcionalidades/funis-de-conversao/leads/perfil-do-lead.md)
 {% endcontent-ref %}
 
 ### Novo Menu: Meu dia!&#x20;

@@ -21,8 +21,8 @@ As etapas automáticas passam a ser obrigatórias e definidas pela regra escolhi
 
 Os indicadores e a listagem de **Leads convertidos** acompanharão a regra ativa. Aging, motivos de perda e perda automática por inatividade podem ser configurados pela clínica.
 
-{% content-ref url="../../funcionalidades/leads/" %}
-[leads](../../funcionalidades/leads/)
+{% content-ref url="../../funcionalidades/funis-de-conversao/leads/" %}
+[leads](../../funcionalidades/funis-de-conversao/leads/)
 {% endcontent-ref %}
 
 ## Novo tipo de envio automático: Pós-agendamento <a href="#id-71787702-2197-4ad9-9da6-4f6402924540" id="id-71787702-2197-4ad9-9da6-4f6402924540"></a>

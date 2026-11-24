@@ -125,4 +125,4 @@ Quando uma pendência tiver prazo vencido, isso também fica sinalizado com clar
 
 
 
-<figure><img src="../../.gitbook/assets/image (75).png" alt="" width="181"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (75).png" alt="" width="181"><figcaption></figcaption></figure>
