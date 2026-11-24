@@ -63,6 +63,7 @@
 * [Configurações](funcionalidades/configuracoes/README.md)
   * [Trilha de Auditoria de logs](funcionalidades/configuracoes/trilha-de-auditoria-de-logs.md)
   * [Temas de atendimento](funcionalidades/configuracoes/temas-de-atendimento.md)
+  * [Base de conhecimento](funcionalidades/configuracoes/base-de-conhecimento.md)
   * [Canais](funcionalidades/configuracoes/canais/README.md)
     * [Instagram](funcionalidades/configuracoes/canais/instagram.md)
   * [Orientações médicas](funcionalidades/configuracoes/orientacoes-medicas.md)
