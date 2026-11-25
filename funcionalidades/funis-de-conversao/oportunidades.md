@@ -1,5 +1,5 @@
 ---
-description: EM BREVE!!
+description: Em breve na sua clínica!
 icon: user-check
 ---
 
@@ -9,7 +9,9 @@ icon: user-check
 
 Quem já foi paciente da sua clínica é o paciente mais fácil de trazer de volta. O tratamento que o médico indicou, o orçamento que ficou em aberto, o paciente que respondeu a uma campanha: cada um desses casos é uma chance de retorno que, sem acompanhamento, se perde na rotina.
 
-O funil de **Oportunidades** reúne esses pacientes num quadro só. A recepção vê quem pode voltar, de onde veio cada caso, quanto está em jogo e qual é o próximo passo. Você acompanha cada oportunidade do primeiro contato até o agendamento ou o orçamento fechado.
+O funil de **Oportunidades** reúne esses pacientes num quadro só. A recepção vê quem pode voltar, de onde veio cada caso, quanto está em jogo e qual é o próximo passo. Você acompanha cada oportunidade do primeiro contato até o agendamento ou o orçamento fechado.<br>
+
+{% embed url="https://drive.google.com/file/d/1CIY_cM5dc6ZJUhGSK03LtKb2o12jOh7Y/view?usp=drive_link" %}
 
 {% hint style="info" icon="lightbulb-on" %}
 **Na prática:** o funil de Leads cuida de quem ainda não é paciente. O de Oportunidades cuida de quem já passou pela clínica e pode voltar.
@@ -37,7 +39,7 @@ Toda oportunidade tem uma origem. Ela aparece no card e pode ser usada como filt
 
 | Origem                  | Quando acontece                                                                                                                                                                  |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Indicação**           | O médico indica um novo tratamento ao finalizar o atendimento no prontuário (**Indicação · Médico**), ou a recepção registra a indicação manualmente (**Indicação · Atendente**) |
+| **Indicação Clínica**   | O médico indica um novo tratamento ao finalizar o atendimento no prontuário (**Indicação · Médico**), ou a recepção registra a indicação manualmente (**Indicação · Atendente**) |
 | **Resgate de inativos** | Um paciente que estava sem atendimento volta a responder                                                                                                                         |
 | **Campanha**            | O paciente recebeu ou respondeu a uma campanha da clínica                                                                                                                        |
 | **Anúncio**             | O paciente chegou por um anúncio                                                                                                                                                 |
