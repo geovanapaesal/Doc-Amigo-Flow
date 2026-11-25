@@ -10,7 +10,7 @@ Em vez de um texto livre, a base é organizada em **8 seções**, uma para cada 
 
 Veja o tour completo:
 
-{% embed url="https://drive.google.com/file/d/1rJ4aXCL2W5pkgMtETf604CL0fifNjWJU/view?usp=drive_link" %}
+{% embed url="https://drive.google.com/file/d/1IwtgG91bZC7HDLzQCFbj2nFWUKNY9bA_/view?usp=drive_link" %}
 
 {% hint style="info" %}
 A Base de conhecimento está disponível no modo **Agente Flow Intelligent**.
