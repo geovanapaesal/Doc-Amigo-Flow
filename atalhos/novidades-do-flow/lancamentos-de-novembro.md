@@ -61,3 +61,17 @@ Saiba mais em:
 {% content-ref url="../../funcionalidades/tarefas-do-dia.md" %}
 [tarefas-do-dia.md](../../funcionalidades/tarefas-do-dia.md)
 {% endcontent-ref %}
+
+
+
+### **Nova Base de conhecimento do Agente Flow**
+
+A Base de conhecimento do Agente Flow agora é organizada em seções por assunto. No lugar de um texto único, a clínica preenche campos guiados, e o agente responde aos pacientes com mais precisão e consistência.
+
+* **Seções por assunto:** convênios e formas de pagamento, serviços e especialidades, cancelamento e faltas, retornos, guias e autorização, resultados e documentos, localização e perguntas frequentes.
+* **Cada seção é salva separadamente:** não é preciso preencher tudo de uma vez. O que for salvo passa a valer para o agente em até 5 minutos.
+* **Perguntas frequentes:** adicione perguntas uma a uma ou importe de um PDF que a clínica já tenha.
+
+**Já usa uma base de conhecimento?** Nada muda até você salvar uma seção nova. Até lá, o agente continua respondendo com o conteúdo atual.
+
+Veja o passo a passo completo em [Base de conhecimento](https://amigotech.gitbook.io/amigo-flow-docs/funcionalidades/configuracoes/base-de-conhecimento).
