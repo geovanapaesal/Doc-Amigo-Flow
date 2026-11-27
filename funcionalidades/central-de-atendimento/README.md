@@ -217,6 +217,49 @@ O histórico da conversa registra, com data e horário, quem assumiu, transferiu
 * A clínica pode exigir pelo menos um tema para encerrar o atendimento. Essa opção vem desligada por padrão.
 * Precisa classificar várias conversas de uma vez? Use a seleção em massa e escolha **Adicionar tema**.
 
+### 10. Busca dentro da conversa&#x20;
+
+Encontre mensagens e atendimentos sem percorrer toda a conversa. Você localiza palavras e trechos no histórico do paciente e vai direto a um atendimento por data, para retomar valores, orçamentos e combinados sem sair do atendimento.
+
+A busca da lista, no item 4, ajuda a encontrar uma conversa. Já a busca dentro da conversa localiza o conteúdo do atendimento aberto.
+
+<figure><img src="../../.gitbook/assets/image (97).png" alt="" width="375"><figcaption></figcaption></figure>
+
+#### Buscar na conversa
+
+Em Meus chats, abra a conversa do paciente e clique na lupa **Buscar na conversa**, no cabeçalho, ao lado das ações de atendimento. A barra aparece acima das mensagens.
+
+* Digite uma palavra ou um trecho com pelo menos dois caracteres.
+* A busca considera o histórico inteiro, inclusive mensagens antigas que ainda não aparecem na tela.
+* Encontra mensagens do paciente, da equipe e do Agente Flow, além de notas internas e legendas de imagens, vídeos e documentos.
+* Não diferencia maiúsculas nem acentos. Por exemplo, “orcamento” encontra “orçamento”.
+
+#### Navegue pelos resultados
+
+* Os trechos encontrados ficam destacados em amarelo claro, e o resultado selecionado recebe um destaque mais forte. A conversa rola até ele.
+* O contador **X de Y** mostra sua posição entre os resultados. A busca começa pelo mais recente.
+* Use **Anterior (▲)** para ir aos resultados mais antigos e **Próximo (▼)** para voltar aos mais recentes. A navegação para no primeiro e no último resultado.
+* No teclado, **Enter** vai para o próximo resultado mais antigo, **Shift + Enter** volta para o mais recente e **Esc** fecha a busca.
+* Se o conteúdo não for encontrado, a barra mostra **Nenhum resultado**.
+* Ao fechar a busca ou trocar de conversa, o termo e os destaques são limpos.
+
+#### Ir para uma data
+
+Na barra de busca, clique no calendário para abrir **Ir para uma data** e consultar o histórico sem rolar a conversa inteira.
+
+* Use as setas para navegar entre o mês da primeira conversa com o paciente e o mês atual.
+* Os dias com atendimento aparecem em negrito e podem ser selecionados. Dias sem atendimento ficam desabilitados.
+* Selecione um dia e clique em **Ir para a data** para ir ao início do atendimento daquela data, mesmo que seja preciso carregar mensagens antigas. Para sair sem navegar, clique em **Cancelar**.
+* O cartão **Atendimento iniciado** ajuda a identificar o atendimento, com o tema e quem o finalizou, quando essas informações estiverem disponíveis.
+
+#### Últimas conversas
+
+Abaixo do calendário, **Últimas conversas** reúne até três atendimentos mais recentes do paciente, com data e tema. Clique em um deles para ir direto ao início daquele atendimento.
+
+#### Volte às mensagens mais recentes
+
+Enquanto você consulta um trecho antigo do histórico, novas mensagens não entram naquele trecho. O botão **Ir para as mais recentes** sinaliza a chegada de uma nova mensagem. Clique nele para voltar às mensagens atuais e continuar o atendimento.
+
 ### 11. Ações a partir da conversa
 
 Resolva a demanda sem sair do atendimento:

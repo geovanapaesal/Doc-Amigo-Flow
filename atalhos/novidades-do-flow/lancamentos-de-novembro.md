@@ -1,5 +1,21 @@
 # Lançamentos de novembro
 
+### Encontre mensagens e atendimentos sem percorrer toda a conversa
+
+Agora você pode localizar palavras e trechos no histórico da conversa do paciente e ir direto a um atendimento por data. Assim, fica mais fácil retomar valores, orçamentos e combinados sem sair do atendimento.
+
+* **Buscar na conversa:** em Meus chats, abra a conversa do paciente e clique na lupa, no cabeçalho. A busca considera todo o histórico, incluindo mensagens do paciente, da equipe e do Agente Flow, notas internas e legendas de arquivos, sem diferenciar maiúsculas ou acentos.
+* **Navegue pelos resultados:** os trechos encontrados ficam destacados, com um contador da sua posição. Use as setas ou Enter e Shift + Enter para avançar e voltar. Esc fecha a busca.
+* **Ir para uma data:** no calendário da barra de busca, os dias com atendimento aparecem em negrito. Selecione um deles para ir direto ao início daquele atendimento.
+* **Últimas conversas:** acesse com um clique os três atendimentos mais recentes do paciente, com data e tema.
+
+<figure><img src="../../.gitbook/assets/image (96).png" alt="" width="113"><figcaption></figcaption></figure>
+
+*   **Ir para as mais recentes:** enquanto você consulta um trecho antigo, esse botão avisa quando chega uma nova mensagem e leva de volta ao atendimento atual.\
+    <br>
+
+    <figure><img src="../../.gitbook/assets/image (95).png" alt="" width="375"><figcaption></figcaption></figure>
+
 ### Status do lead direto na conversa
 
 Agora você pode consultar e alterar a etapa do lead diretamente no cabeçalho da conversa, na Central de mensagens, sem precisar abrir o Funil de Leads. Assim, fica mais fácil acompanhar o atendimento e manter o status atualizado sem sair da conversa.
